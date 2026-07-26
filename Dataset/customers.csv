@@ -1,0 +1,1792 @@
+customer_id,customer_full_name,home_city,signup_date,membership_tier,age
+1000,Niran Sukjai,Nakhon Si Thammarat,2021-11-17,Platinum,20
+1001,Chaiyot Chaiyaporn,Chiang Rai,2021-03-02,Bronze,59
+1002,Anan Intharak,Hat Yai,2020-11-17,Silver,54
+1003,Pranee Chantra,Chiang Rai,2020-02-15,Gold,55
+1004,Thawatchai Chaiyaporn,Nakhon Ratchasima,2021-04-15,Bronze,47
+1005,Orawan Saelim,Trang,2020-08-22,Bronze,31
+1006,Suchart Chaiyaporn,Surat Thani,2022-06-18,Bronze,43
+1007,Anan Yodying,Buriram,2021-04-04,Platinum,34
+1008,Ratana Boonmee,Sakon Nakhon,2023-08-23,Gold,25
+1009,Kanya Boonmee,Surat Thani,2020-12-26,Platinum,27
+1010,Ploy Yodying,Pattaya,2021-11-20,Gold,24
+1011,Somsri Chotirat,Nong Khai,2020-02-25,Silver,23
+1012,Pranee Meesuk,Surat Thani,2023-04-20,Silver,19
+1013,Somkiat Chotirat,Trang,2021-04-19,Silver,55
+1014,Somsri Chotirat,Trang,2021-10-14,Silver,41
+1015,Thawatchai Sinthop,Khon Kaen,2022-07-05,Gold,48
+1016,Somsri Meesuk,Trang,2022-03-01,Silver,53
+1017,Somsri Intharak,Ubon Ratchathani,2023-10-12,Bronze,60
+1018,Yupin Sukjai,Nonthaburi,2023-02-16,Gold,37
+1019,Duangjai Yodying,Sakon Nakhon,2023-05-30,Bronze,19
+1020,Wichai Intharak,Nakhon Ratchasima,2023-01-22,Silver,34
+1021,Pranee Chotirat,Nonthaburi,2022-06-30,Silver,41
+1022,Duangjai Intharak,Rayong,2020-10-22,Bronze,21
+1023,Boonmee Thongdee,Chiang Mai,2022-06-10,Gold,40
+1024,Pranee Chotirat,Phuket,2020-06-19,Gold,54
+1025,Thawatchai Wongsawat,Lampang,2022-06-17,Platinum,57
+1026,Siriporn Rattanakul,Pattaya,2020-12-08,Bronze,46
+1027,Ploy Boonmee,Nonthaburi,2022-03-09,Silver,20
+1028,Thawatchai Chaiyaporn,Trang,2020-06-15,Bronze,63
+1031,Wilai Wongsawat,Pattaya,2020-11-20,Silver,37
+1033,Nittaya Intharak,Nong Khai,2023-07-10,Bronze,60
+1034,Ratana Panyawong,Udon Thani,2020-04-20,Gold,40
+1035,Sombat Chotirat,Phuket,2021-12-27,Platinum,60
+1036,Orawan Naruemon,Sakon Nakhon,2023-03-03,Gold,49
+1037,Siriporn Kaewkla,Surat Thani,2023-05-25,Gold,30
+1038,Kanya Thongdee,Buriram,2021-09-17,Silver,42
+1039,Pichit Meesuk,Pattaya,2023-05-22,Gold,37
+1040,Anan Chotirat,Nakhon Ratchasima,2020-02-07,Bronze,57
+1041,Duangjai Saelim,Phuket,2020-12-03,Gold,54
+1042,Nittaya Panyawong,Krabi,2020-08-31,Silver,36
+1044,Suree Naruemon,Krabi,2021-09-19,Bronze,26
+1046,Duangjai Wattana,Lampang,2021-01-10,Gold,21
+1047,Anan Rattanakul,Chiang Mai,2021-07-28,Gold,20
+1048,Anucha Yodying,Buriram,2022-06-03,Silver,19
+1049,Malee Panyawong,Phuket,2022-05-07,Gold,44
+1050,Wichai Phetcharat,Lampang,2021-04-17,Gold,57
+1052,Ratana Chaiyaporn,Bangkok,2020-05-23,Bronze,52
+1053,Chomphunut Boonmee,Nong Khai,2020-01-07,Gold,41
+1054,Chatchai Intharak,Sakon Nakhon,2021-02-10,Gold,52
+1055,Thawatchai Panyawong,Nonthaburi,2021-07-17,Gold,54
+1056,Niran Chantra,Bangkok,2023-03-09,Bronze,62
+1057,Wilai Phetcharat,Nonthaburi,2021-04-24,Silver,27
+1058,Thawatchai Naruemon,Nong Khai,2020-01-21,Bronze,22
+1059,Anan Boonmee,Bangkok,2021-11-13,Bronze,51
+1060,Prasert Phetcharat,Krabi,2021-09-26,Bronze,24
+1061,Pichit Boonmee,Khon Kaen,2020-10-18,Bronze,26
+1062,Somsri Kaewkla,Surat Thani,2020-11-30,Bronze,33
+1063,Somkiat Chotirat,Khon Kaen,2022-05-12,Silver,34
+1064,Chomphunut Naruemon,Nonthaburi,2021-11-21,Bronze,39
+1065,Duangjai Sinthop,Ubon Ratchathani,2022-12-30,Bronze,30
+1066,Kittisak Chantra,Nakhon Si Thammarat,2022-09-18,Platinum,52
+1067,Somchai Naruemon,Bangkok,2023-11-24,Silver,23
+1068,Siriporn Thongdee,Krabi,2021-11-14,Silver,42
+1071,Wilai Rattanakul,Chiang Rai,2021-03-06,Bronze,32
+1072,Nittaya Chaiyaporn,Chiang Mai,2020-09-05,Silver,61
+1074,Suchart Kaewkla,Bangkok,2023-01-05,Silver,46
+1075,Wichai Meesuk,Chiang Mai,2023-08-11,Bronze,50
+1076,Chaiyot Sinthop,Chiang Mai,2023-06-17,Bronze,48
+1077,Orawan Phetcharat,Phuket,2021-03-23,Bronze,45
+1078,Anan Thongdee,Pattaya,2022-07-15,Bronze,55
+1079,Sombat Sinthop,Lampang,2022-10-11,Bronze,39
+1080,Ploy Prasertsak,Rayong,2020-03-15,Silver,63
+1081,Kittisak Sukjai,Buriram,2023-03-05,Gold,58
+1082,Boonmee Yodying,Nonthaburi,2021-05-18,Bronze,61
+1083,Yupin Intharak,Phuket,2022-05-30,Gold,59
+1084,Prasert Yodying,Chiang Rai,2023-07-18,Silver,42
+1085,Siriporn Sinthop,Chiang Mai,2022-11-10,Bronze,52
+1086,Kanya Sukjai,Krabi,2022-02-01,Gold,38
+1087,Anan Thongdee,Lampang,2022-03-05,Platinum,38
+1088,Wichai Meesuk,Nakhon Si Thammarat,2021-04-03,Bronze,57
+1089,Chomphunut Meesuk,Surat Thani,2023-12-10,Silver,34
+1090,Somchai Phetcharat,Sakon Nakhon,2020-02-27,Bronze,34
+1091,Boonmee Chotirat,Surat Thani,2020-03-14,Gold,44
+1092,Malee Prasertsak,Nonthaburi,2023-08-15,Bronze,41
+1093,Duangjai Srisuk,Rayong,2022-01-02,Gold,30
+1094,Wichai Yodying,Udon Thani,2022-12-09,Bronze,58
+1095,Ploy Chantra,Bangkok,2023-09-08,Bronze,20
+1097,Wilai Chotirat,Udon Thani,2020-01-29,Bronze,18
+1098,Niran Sukjai,Nakhon Si Thammarat,2021-09-13,Bronze,22
+1099,Pichit Saelim,Udon Thani,2020-12-01,Bronze,52
+1100,Wilai Chaiyaporn,Lampang,2022-05-18,Bronze,29
+1101,Sombat Intharak,Trang,2020-01-09,Silver,42
+1102,Chaiyot Sinthop,Nong Khai,2021-09-04,Bronze,35
+1103,Chaiyot Sinthop,Chiang Rai,2023-04-18,Gold,59
+1104,Pranee Phetcharat,Khon Kaen,2023-01-16,Silver,58
+1105,Somkiat Sinthop,Krabi,2022-08-06,Gold,64
+1106,Somsri Wongsawat,Hat Yai,2022-03-12,Silver,35
+1107,Anan Wongsawat,Nakhon Ratchasima,2020-07-15,Bronze,26
+1108,Sombat Thongdee,Phuket,2022-10-01,Silver,52
+1110,Pranee Panyawong,Surat Thani,2021-04-11,Gold,47
+1111,Wilai Chaiyaporn,Nakhon Si Thammarat,2020-02-05,Silver,22
+1112,Pranee Srisuk,Chiang Mai,2023-02-12,Gold,35
+1113,Thawatchai Sukjai,Nonthaburi,2021-03-30,Platinum,53
+1114,Ploy Rattanakul,Nakhon Ratchasima,2021-03-05,Bronze,45
+1115,Siriporn Wattana,Pattaya,2020-03-11,Bronze,57
+1116,Somchai Boonmee,Chiang Rai,2021-07-01,Bronze,39
+1117,Yupin Wongsawat,Sakon Nakhon,2020-04-09,Silver,30
+1118,Wilai Sinthop,Trang,2022-12-24,Silver,29
+1119,Wichai Prasertsak,Sakon Nakhon,2020-01-25,Gold,34
+1121,Siriporn Wattana,Phuket,2023-04-25,Gold,48
+1122,Siriporn Phetcharat,Pattaya,2023-11-11,Bronze,45
+1123,Pranee Rattanakul,Trang,2021-03-06,Platinum,33
+1124,Yupin Phetcharat,Khon Kaen,2022-06-10,Gold,24
+1125,Sombat Phetcharat,Udon Thani,2022-06-12,Bronze,29
+1126,Nittaya Kaewkla,Phuket,2022-10-24,Bronze,34
+1127,Anan Sukjai,Trang,2023-08-18,Bronze,23
+1128,Pranee Panyawong,Chiang Mai,2022-03-30,Gold,20
+1129,Suree Prasertsak,Ubon Ratchathani,2022-12-23,Gold,63
+1130,Nittaya Thongdee,Khon Kaen,2023-11-29,Gold,46
+1131,Anucha Srisuk,Nakhon Ratchasima,2023-10-04,Bronze,18
+1132,Suchart Saelim,Lampang,2023-04-13,Silver,36
+1133,Siriporn Sukjai,Hat Yai,2023-07-24,Gold,44
+1134,Pichit Intharak,Chiang Rai,2022-03-24,Bronze,46
+1135,Orawan Srisuk,Nonthaburi,2023-05-16,Bronze,58
+1136,Chatchai Saelim,Chiang Mai,2023-09-27,Bronze,58
+1137,Duangjai Boonmee,Nong Khai,2022-07-15,Gold,26
+1138,Pichit Prasertsak,Sakon Nakhon,2021-01-10,Silver,56
+1139,Anucha Chantra,Lampang,2021-06-01,Bronze,29
+1140,Orawan Thongdee,Nong Khai,2020-08-19,Silver,50
+1141,Siriporn Meesuk,Nong Khai,2020-05-28,Gold,35
+1142,Ploy Intharak,Bangkok,2020-06-26,Bronze,44
+1143,Chatchai Saelim,Buriram,2020-09-28,Gold,33
+1144,Niran Meesuk,Chiang Mai,2023-12-11,Bronze,50
+1145,Wilai Wongsawat,Pattaya,2023-07-19,Platinum,53
+1146,Rungnapa Meesuk,Trang,2020-10-30,Gold,35
+1147,Boonmee Sinthop,Lampang,2020-03-06,Platinum,33
+1148,Suree Meesuk,Nakhon Si Thammarat,2023-09-28,Platinum,56
+1149,Suchart Saelim,Bangkok,2021-02-21,Silver,29
+1150,Nittaya Chantra,Chiang Rai,2023-06-21,Silver,30
+1151,Suree Srisuk,Nong Khai,2020-04-01,Bronze,25
+1152,Somchai Prasertsak,Chiang Mai,2023-02-22,Gold,63
+1153,Nittaya Prasertsak,Nakhon Ratchasima,2022-05-27,Bronze,33
+1154,Suchart Wattana,Rayong,2022-04-28,Bronze,26
+1155,Siriporn Naruemon,Phuket,2023-09-23,Bronze,61
+1156,Rungnapa Chantra,Sakon Nakhon,2021-08-13,Silver,32
+1157,Siriporn Boonmee,Nonthaburi,2023-07-26,Platinum,60
+1158,Kanya Rattanakul,Surat Thani,2020-04-05,Platinum,18
+1159,Kanya Phetcharat,Bangkok,2021-08-15,Bronze,47
+1160,Suchart Panyawong,Nakhon Ratchasima,2023-01-07,Bronze,27
+1161,Suchart Phetcharat,Surat Thani,2022-08-10,Silver,22
+1162,Wilai Wattana,Pattaya,2020-08-15,Silver,39
+1163,Boonmee Srisuk,Bangkok,2021-04-04,Bronze,50
+1164,Nittaya Chantra,Sakon Nakhon,2021-11-18,Bronze,58
+1165,Rungnapa Boonmee,Sakon Nakhon,2021-03-06,Bronze,19
+1166,Boonmee Rattanakul,Buriram,2021-01-30,Gold,40
+1167,Orawan Sinthop,Hat Yai,2021-06-11,Bronze,38
+1168,Rungnapa Wongsawat,Bangkok,2022-09-15,Bronze,44
+1169,Nittaya Thongdee,Bangkok,2023-05-22,Gold,52
+1171,Ratana Panyawong,Phuket,2023-04-25,Bronze,62
+1172,Anan Sinthop,Trang,2022-01-22,Silver,31
+1173,Sombat Sinthop,Nakhon Ratchasima,2022-12-22,Platinum,56
+1176,Suree Boonmee,Ubon Ratchathani,2023-01-18,Silver,50
+1178,Suree Thongdee,Buriram,2022-03-19,Silver,40
+1180,Malee Sukjai,Khon Kaen,2023-02-23,Silver,29
+1181,Somchai Sukjai,Phuket,2022-06-01,Silver,27
+1182,Thawatchai Naruemon,Buriram,2023-11-03,Silver,34
+1183,Rungnapa Sukjai,Nakhon Ratchasima,2023-12-21,Bronze,63
+1185,Wilai Wattana,Trang,2021-09-02,Bronze,24
+1186,Nittaya Chantra,Chiang Rai,2021-04-25,Silver,32
+1187,Wichai Intharak,Nakhon Ratchasima,2022-07-17,Gold,19
+1189,Ploy Sukjai,Hat Yai,2020-02-23,Platinum,38
+1190,Somchai Srisuk,Nakhon Ratchasima,2022-08-13,Gold,35
+1191,Rungnapa Rattanakul,Nakhon Si Thammarat,2022-06-22,Silver,30
+1193,Anucha Sukjai,Nonthaburi,2020-03-21,Platinum,24
+1194,Ratana Wongsawat,Buriram,2022-06-23,Gold,62
+1195,Boonmee Wongsawat,Ubon Ratchathani,2021-04-12,Silver,32
+1197,Somchai Prasertsak,Phuket,2023-12-04,Silver,41
+1198,Suchart Kaewkla,Surat Thani,2020-02-03,Silver,60
+1199,Anucha Meesuk,Chiang Rai,2021-06-26,Silver,30
+1200,Chatchai Chotirat,Hat Yai,2023-08-13,Platinum,53
+1201,Niran Prasertsak,Pattaya,2021-12-13,Bronze,41
+1202,Ploy Yodying,Udon Thani,2020-12-14,Gold,34
+1204,Boonmee Sukjai,Ubon Ratchathani,2022-08-28,Gold,37
+1205,Somsri Chantra,Khon Kaen,2022-02-10,Bronze,37
+1206,Kittisak Naruemon,Udon Thani,2023-03-14,Bronze,53
+1207,Chomphunut Chotirat,Ubon Ratchathani,2023-12-19,Bronze,23
+1208,Boonmee Saelim,Trang,2023-01-05,Gold,63
+1209,Ratana Saelim,Sakon Nakhon,2020-09-29,Silver,38
+1210,Wichai Intharak,Rayong,2020-05-04,Gold,19
+1212,Wichai Saelim,Sakon Nakhon,2022-02-23,Bronze,25
+1213,Anucha Srisuk,Khon Kaen,2020-12-01,Silver,44
+1214,Yupin Naruemon,Trang,2023-09-17,Gold,47
+1215,Chatchai Thongdee,Nonthaburi,2021-10-24,Silver,49
+1216,Wilai Srisuk,Krabi,2020-08-02,Silver,34
+1217,Chatchai Sukjai,Nong Khai,2020-01-17,Bronze,48
+1218,Malee Sukjai,Sakon Nakhon,2020-09-29,Bronze,64
+1219,Nittaya Wattana,Nong Khai,2022-12-02,Platinum,26
+1221,Suree Rattanakul,Nong Khai,2020-10-29,Silver,45
+1222,Ploy Chaiyaporn,Phuket,2020-10-30,Bronze,35
+1223,Niran Saelim,Nakhon Si Thammarat,2022-08-04,Gold,42
+1224,Anucha Intharak,Nakhon Ratchasima,2021-04-12,Silver,50
+1225,Nittaya Rattanakul,Buriram,2021-05-28,Bronze,41
+1226,Kittisak Intharak,Buriram,2021-03-09,Gold,39
+1227,Somsri Meesuk,Bangkok,2021-01-21,Bronze,31
+1228,Suchart Prasertsak,Khon Kaen,2021-06-06,Bronze,53
+1229,Somsri Rattanakul,Krabi,2021-10-28,Platinum,46
+1230,Anucha Naruemon,Udon Thani,2020-12-21,Bronze,20
+1231,Ploy Srisuk,Sakon Nakhon,2023-01-07,Gold,29
+1232,Chatchai Boonmee,Nakhon Si Thammarat,2021-11-27,Platinum,55
+1233,Sombat Panyawong,Nonthaburi,2022-04-25,Platinum,46
+1234,Wilai Saelim,Lampang,2023-06-28,Silver,33
+1235,Wilai Saelim,Surat Thani,2020-04-14,Bronze,42
+1236,Suchart Prasertsak,Pattaya,2023-04-20,Gold,30
+1237,Sombat Saelim,Udon Thani,2023-06-17,Bronze,45
+1238,Ploy Phetcharat,Phuket,2021-05-21,Bronze,23
+1241,Anucha Meesuk,Bangkok,2020-02-09,Bronze,27
+1242,Pichit Saelim,Khon Kaen,2021-11-27,Silver,50
+1243,Kittisak Prasertsak,Nong Khai,2023-11-25,Silver,36
+1244,Orawan Intharak,Nong Khai,2022-03-04,Gold,29
+1245,Kittisak Wongsawat,Sakon Nakhon,2023-04-19,Silver,38
+1246,Boonmee Naruemon,Udon Thani,2020-08-02,Bronze,29
+1247,Wichai Yodying,Khon Kaen,2020-06-05,Silver,19
+1248,Pranee Sinthop,Chiang Rai,2021-08-03,Silver,62
+1249,Sombat Panyawong,Bangkok,2022-07-01,Bronze,32
+1250,Anan Meesuk,Surat Thani,2020-05-24,Silver,29
+1252,Ratana Boonmee,Sakon Nakhon,2021-04-13,Bronze,24
+1253,Suchart Kaewkla,Trang,2021-01-06,Silver,54
+1255,Rungnapa Rattanakul,Chiang Rai,2022-04-16,Silver,28
+1256,Kittisak Sukjai,Bangkok,2020-09-21,Silver,35
+1257,Pichit Chantra,Sakon Nakhon,2021-10-09,Bronze,24
+1258,Wichai Prasertsak,Trang,2021-09-06,Bronze,31
+1259,Kittisak Sukjai,Ubon Ratchathani,2021-08-27,Silver,22
+1260,Sombat Meesuk,Bangkok,2021-10-21,Bronze,19
+1261,Suree Rattanakul,Hat Yai,2022-08-10,Platinum,27
+1262,Chaiyot Phetcharat,Trang,2020-02-18,Gold,49
+1263,Malee Meesuk,Buriram,2023-09-30,Silver,32
+1264,Malee Yodying,Nakhon Ratchasima,2021-10-19,Silver,39
+1265,Anucha Sinthop,Udon Thani,2022-08-19,Platinum,27
+1266,Niran Yodying,Surat Thani,2020-04-30,Platinum,38
+1267,Suchart Chantra,Krabi,2020-03-31,Gold,38
+1268,Niran Boonmee,Chiang Rai,2020-03-10,Gold,22
+1269,Suree Chantra,Hat Yai,2022-08-17,Silver,27
+1271,Somchai Panyawong,Nonthaburi,2022-02-19,Platinum,32
+1272,Ploy Naruemon,Nong Khai,2023-01-28,Gold,60
+1273,Sombat Srisuk,Nonthaburi,2020-11-13,Silver,38
+1274,Chaiyot Panyawong,Hat Yai,2022-07-23,Silver,56
+1275,Anucha Wattana,Hat Yai,2023-04-20,Bronze,27
+1276,Duangjai Saelim,Hat Yai,2021-10-09,Silver,26
+1277,Anan Rattanakul,Ubon Ratchathani,2021-09-30,Silver,52
+1278,Orawan Meesuk,Trang,2023-09-18,Bronze,42
+1279,Kittisak Rattanakul,Trang,2020-03-25,Silver,49
+1280,Anan Prasertsak,Surat Thani,2022-02-20,Silver,53
+1281,Prasert Chaiyaporn,Surat Thani,2020-05-25,Bronze,64
+1282,Kittisak Thongdee,Nonthaburi,2021-05-13,Silver,52
+1283,Prasert Sukjai,Nong Khai,2020-08-14,Silver,41
+1284,Boonmee Yodying,Pattaya,2020-07-19,Silver,43
+1285,Yupin Prasertsak,Sakon Nakhon,2020-07-04,Bronze,49
+1286,Chaiyot Sukjai,Rayong,2020-01-24,Bronze,58
+1287,Ploy Saelim,Nakhon Si Thammarat,2023-05-28,Bronze,50
+1288,Thawatchai Phetcharat,Phuket,2020-03-20,Bronze,25
+1290,Pichit Panyawong,Trang,2023-01-28,Silver,35
+1292,Anan Prasertsak,Krabi,2021-08-20,Silver,18
+1293,Somsri Thongdee,Phuket,2021-03-05,Platinum,53
+1294,Ratana Boonmee,Buriram,2021-03-09,Silver,22
+1295,Prasert Srisuk,Nakhon Si Thammarat,2022-04-04,Bronze,48
+1297,Somkiat Boonmee,Chiang Mai,2023-08-14,Bronze,53
+1299,Rungnapa Prasertsak,Nong Khai,2020-12-16,Silver,30
+1300,Anan Wattana,Surat Thani,2022-07-06,Bronze,58
+1301,Yupin Meesuk,Nong Khai,2021-02-24,Bronze,18
+1302,Anan Prasertsak,Bangkok,2022-05-23,Platinum,27
+1303,Yupin Rattanakul,Rayong,2020-07-31,Silver,58
+1304,Sombat Srisuk,Nonthaburi,2023-06-15,Gold,52
+1305,Niran Intharak,Chiang Mai,2020-01-15,Gold,50
+1306,Ratana Prasertsak,Khon Kaen,2021-08-09,Bronze,38
+1307,Wilai Sukjai,Phuket,2023-08-16,Platinum,36
+1308,Somsri Saelim,Rayong,2023-11-14,Gold,46
+1310,Pichit Meesuk,Nakhon Ratchasima,2021-11-02,Silver,26
+1311,Pranee Thongdee,Sakon Nakhon,2021-04-01,Bronze,56
+1312,Prasert Chaiyaporn,Sakon Nakhon,2021-02-12,Bronze,26
+1313,Malee Wongsawat,Buriram,2021-10-31,Bronze,22
+1314,Orawan Kaewkla,Chiang Rai,2022-06-07,Bronze,37
+1315,Somkiat Kaewkla,Pattaya,2022-08-09,Bronze,20
+1316,Anucha Wongsawat,Bangkok,2020-02-25,Silver,42
+1317,Duangjai Naruemon,Nakhon Ratchasima,2021-07-31,Silver,60
+1319,Anucha Thongdee,Krabi,2023-05-02,Bronze,62
+1320,Prasert Chantra,Hat Yai,2023-02-26,Silver,22
+1321,Rungnapa Srisuk,Khon Kaen,2022-06-02,Gold,30
+1323,Prasert Chaiyaporn,Nakhon Ratchasima,2023-05-13,Bronze,57
+1324,Somchai Srisuk,Rayong,2022-01-21,Bronze,27
+1325,Suree Saelim,Rayong,2021-04-02,Bronze,22
+1326,Ploy Wongsawat,Nakhon Si Thammarat,2020-09-06,Silver,44
+1327,Anucha Phetcharat,Surat Thani,2022-10-31,Platinum,30
+1328,Kanya Naruemon,Pattaya,2020-07-31,Bronze,56
+1329,Pranee Yodying,Nakhon Si Thammarat,2021-04-20,Silver,40
+1330,Chomphunut Phetcharat,Surat Thani,2023-10-09,Silver,43
+1331,Ploy Sinthop,Nonthaburi,2022-07-26,Bronze,62
+1333,Anucha Kaewkla,Nakhon Si Thammarat,2021-08-09,Bronze,25
+1334,Pichit Wongsawat,Buriram,2023-10-16,Gold,56
+1335,Kanya Panyawong,Nakhon Si Thammarat,2022-06-12,Gold,40
+1336,Suchart Sukjai,Nakhon Ratchasima,2020-06-06,Bronze,45
+1337,Chaiyot Chantra,Nong Khai,2021-01-19,Gold,33
+1338,Somsri Sukjai,Nong Khai,2023-03-29,Gold,64
+1339,Somchai Boonmee,Chiang Rai,2021-01-06,Silver,43
+1340,Somkiat Prasertsak,Pattaya,2023-02-10,Platinum,42
+1341,Ratana Thongdee,Bangkok,2022-10-01,Silver,38
+1342,Somsri Boonmee,Lampang,2021-06-09,Silver,55
+1343,Chomphunut Sinthop,Hat Yai,2021-04-03,Platinum,37
+1344,Yupin Saelim,Nong Khai,2022-06-20,Bronze,26
+1345,Chomphunut Kaewkla,Khon Kaen,2023-10-02,Bronze,59
+1346,Wilai Meesuk,Chiang Mai,2022-10-09,Bronze,31
+1347,Pichit Kaewkla,Rayong,2023-04-15,Platinum,23
+1348,Somsri Naruemon,Chiang Mai,2022-11-15,Platinum,58
+1349,Malee Thongdee,Buriram,2021-11-07,Bronze,54
+1350,Prasert Naruemon,Nakhon Ratchasima,2022-12-01,Bronze,48
+1352,Somchai Prasertsak,Pattaya,2022-10-07,Gold,53
+1353,Siriporn Panyawong,Nonthaburi,2023-01-20,Gold,56
+1355,Ploy Panyawong,Nonthaburi,2020-12-06,Bronze,41
+1356,Kanya Chaiyaporn,Chiang Mai,2022-02-27,Silver,22
+1357,Kittisak Kaewkla,Chiang Rai,2020-01-08,Silver,20
+1358,Suchart Chantra,Sakon Nakhon,2023-12-06,Bronze,37
+1359,Malee Srisuk,Chiang Rai,2020-11-14,Bronze,35
+1360,Niran Sinthop,Udon Thani,2023-04-03,Bronze,36
+1361,Anan Phetcharat,Hat Yai,2022-05-14,Bronze,28
+1362,Prasert Saelim,Lampang,2022-12-09,Bronze,30
+1363,Somkiat Wongsawat,Phuket,2023-04-02,Silver,51
+1364,Kanya Saelim,Sakon Nakhon,2023-09-15,Platinum,29
+1365,Chatchai Srisuk,Pattaya,2022-01-19,Silver,38
+1367,Anan Prasertsak,Bangkok,2023-08-29,Bronze,37
+1368,Boonmee Boonmee,Sakon Nakhon,2021-10-02,Silver,37
+1369,Wichai Sinthop,Sakon Nakhon,2020-08-09,Bronze,56
+1370,Thawatchai Chaiyaporn,Bangkok,2020-10-30,Bronze,37
+1371,Chaiyot Srisuk,Chiang Rai,2023-08-02,Bronze,62
+1372,Duangjai Kaewkla,Udon Thani,2022-03-21,Bronze,56
+1373,Somkiat Meesuk,Krabi,2021-07-15,Bronze,48
+1374,Anan Chotirat,Chiang Mai,2021-03-15,Platinum,20
+1375,Anucha Sukjai,Khon Kaen,2022-11-17,Platinum,40
+1376,Chomphunut Wattana,Nonthaburi,2022-04-26,Bronze,64
+1377,Chaiyot Panyawong,Pattaya,2023-08-01,Bronze,34
+1378,Suree Phetcharat,Rayong,2021-08-12,Bronze,24
+1379,Wichai Kaewkla,Buriram,2021-02-27,Bronze,37
+1380,Suree Wattana,Chiang Mai,2023-06-04,Silver,63
+1381,Somkiat Sukjai,Buriram,2023-08-22,Bronze,49
+1382,Somsri Saelim,Pattaya,2022-11-10,Gold,53
+1383,Somkiat Yodying,Hat Yai,2021-06-30,Bronze,52
+1384,Suree Saelim,Udon Thani,2020-07-05,Bronze,35
+1385,Wichai Saelim,Chiang Rai,2023-06-19,Bronze,31
+1386,Chatchai Saelim,Phuket,2020-08-13,Silver,35
+1387,Thawatchai Srisuk,Nong Khai,2021-04-30,Platinum,49
+1388,Boonmee Chotirat,Rayong,2022-06-30,Gold,29
+1389,Rungnapa Meesuk,Surat Thani,2020-03-17,Silver,25
+1390,Anan Srisuk,Hat Yai,2020-07-15,Bronze,57
+1391,Somsri Sukjai,Rayong,2021-06-27,Gold,33
+1392,Somkiat Chantra,Pattaya,2020-09-05,Bronze,58
+1394,Pranee Sinthop,Surat Thani,2022-09-27,Silver,47
+1395,Boonmee Naruemon,Buriram,2021-06-18,Silver,33
+1396,Ploy Chaiyaporn,Nakhon Ratchasima,2022-06-16,Bronze,35
+1397,Somkiat Srisuk,Nakhon Si Thammarat,2020-06-16,Bronze,22
+1398,Somkiat Intharak,Chiang Rai,2022-11-14,Bronze,49
+1399,Chomphunut Meesuk,Buriram,2022-07-22,Silver,32
+1400,Nittaya Prasertsak,Khon Kaen,2021-04-07,Silver,52
+1401,Somchai Naruemon,Phuket,2021-09-11,Bronze,39
+1402,Rungnapa Boonmee,Khon Kaen,2022-08-21,Gold,29
+1403,Suree Saelim,Sakon Nakhon,2022-02-14,Silver,18
+1404,Kittisak Intharak,Nakhon Si Thammarat,2020-12-26,Bronze,25
+1405,Anan Saelim,Hat Yai,2021-10-14,Bronze,38
+1406,Anan Phetcharat,Rayong,2021-03-19,Silver,39
+1407,Prasert Boonmee,Trang,2023-07-03,Platinum,31
+1409,Yupin Prasertsak,Hat Yai,2020-05-25,Silver,26
+1411,Kanya Wongsawat,Nakhon Ratchasima,2021-11-23,Platinum,37
+1412,Kanya Naruemon,Ubon Ratchathani,2021-12-21,Bronze,33
+1413,Nittaya Sinthop,Krabi,2021-11-05,Bronze,35
+1417,Anan Phetcharat,Chiang Mai,2022-07-17,Silver,35
+1418,Orawan Kaewkla,Rayong,2023-08-01,Gold,56
+1419,Chatchai Chaiyaporn,Rayong,2020-06-01,Gold,56
+1420,Wilai Wongsawat,Hat Yai,2020-03-30,Silver,41
+1421,Anan Wattana,Phuket,2021-02-09,Bronze,39
+1422,Wichai Panyawong,Nakhon Ratchasima,2022-03-23,Bronze,64
+1423,Prasert Kaewkla,Nakhon Si Thammarat,2022-10-16,Gold,23
+1424,Wilai Chotirat,Bangkok,2021-01-08,Bronze,55
+1425,Wichai Srisuk,Surat Thani,2020-04-02,Bronze,53
+1426,Nittaya Chaiyaporn,Bangkok,2023-06-03,Silver,18
+1427,Nittaya Prasertsak,Nakhon Si Thammarat,2022-10-27,Bronze,61
+1428,Chomphunut Rattanakul,Sakon Nakhon,2020-04-03,Gold,30
+1429,Pichit Wongsawat,Hat Yai,2020-12-22,Gold,21
+1430,Chomphunut Phetcharat,Surat Thani,2020-04-07,Gold,47
+1431,Duangjai Saelim,Buriram,2020-12-02,Gold,40
+1434,Duangjai Naruemon,Hat Yai,2021-08-08,Bronze,63
+1435,Sombat Naruemon,Trang,2023-07-20,Silver,30
+1437,Chatchai Rattanakul,Rayong,2023-03-11,Silver,32
+1439,Kittisak Intharak,Nakhon Si Thammarat,2021-03-12,Gold,43
+1440,Suchart Kaewkla,Udon Thani,2020-11-03,Bronze,18
+1441,Anan Phetcharat,Sakon Nakhon,2021-05-02,Bronze,57
+1442,Somchai Kaewkla,Rayong,2023-01-24,Platinum,28
+1443,Sombat Boonmee,Nong Khai,2020-11-10,Silver,63
+1444,Boonmee Saelim,Khon Kaen,2021-08-29,Bronze,26
+1445,Sombat Prasertsak,Bangkok,2022-03-12,Silver,21
+1446,Chaiyot Wongsawat,Nakhon Ratchasima,2023-05-05,Bronze,36
+1447,Orawan Wongsawat,Phuket,2021-08-17,Gold,62
+1448,Anan Chotirat,Pattaya,2020-01-10,Bronze,22
+1449,Anan Sukjai,Buriram,2020-07-25,Silver,47
+1451,Suree Saelim,Krabi,2022-12-26,Silver,59
+1452,Prasert Chantra,Chiang Mai,2022-12-15,Bronze,19
+1453,Wichai Wattana,Nakhon Si Thammarat,2020-08-22,Gold,18
+1454,Boonmee Saelim,Lampang,2020-09-26,Silver,29
+1455,Prasert Rattanakul,Trang,2022-06-07,Silver,36
+1456,Pichit Chantra,Buriram,2023-01-08,Platinum,19
+1458,Kanya Phetcharat,Ubon Ratchathani,2022-07-02,Bronze,47
+1459,Kittisak Phetcharat,Ubon Ratchathani,2021-09-19,Gold,23
+1460,Chaiyot Srisuk,Krabi,2022-02-09,Bronze,24
+1462,Malee Srisuk,Nong Khai,2021-02-20,Bronze,32
+1463,Nittaya Naruemon,Sakon Nakhon,2023-03-03,Bronze,32
+1464,Chaiyot Kaewkla,Bangkok,2022-09-15,Silver,51
+1465,Suree Sukjai,Udon Thani,2022-09-30,Bronze,29
+1466,Ratana Chantra,Krabi,2020-11-06,Bronze,61
+1467,Chaiyot Panyawong,Khon Kaen,2020-05-05,Bronze,36
+1468,Pranee Panyawong,Phuket,2021-07-25,Silver,29
+1469,Somchai Panyawong,Chiang Mai,2022-05-24,Silver,34
+1470,Chatchai Panyawong,Lampang,2021-07-05,Gold,24
+1472,Boonmee Sinthop,Hat Yai,2023-11-24,Gold,35
+1473,Pranee Wongsawat,Nakhon Si Thammarat,2020-01-27,Bronze,25
+1474,Pichit Srisuk,Chiang Rai,2023-12-17,Gold,63
+1475,Kittisak Kaewkla,Nakhon Si Thammarat,2023-08-05,Gold,26
+1476,Prasert Chantra,Nonthaburi,2023-11-19,Platinum,32
+1477,Anan Sinthop,Udon Thani,2023-10-06,Silver,41
+1479,Chaiyot Chotirat,Nakhon Si Thammarat,2020-08-20,Bronze,38
+1480,Anan Chantra,Sakon Nakhon,2020-04-24,Platinum,18
+1481,Orawan Yodying,Khon Kaen,2023-03-06,Silver,21
+1482,Chatchai Prasertsak,Hat Yai,2021-08-24,Silver,53
+1483,Yupin Chaiyaporn,Nakhon Ratchasima,2022-10-21,Silver,34
+1484,Prasert Rattanakul,Sakon Nakhon,2021-12-29,Bronze,31
+1485,Somsri Kaewkla,Udon Thani,2023-05-16,Bronze,21
+1487,Somkiat Sukjai,Nonthaburi,2020-10-05,Silver,56
+1488,Kanya Prasertsak,Nakhon Si Thammarat,2020-12-29,Bronze,22
+1489,Ratana Saelim,Lampang,2021-06-05,Silver,46
+1490,Niran Wongsawat,Buriram,2021-06-28,Gold,42
+1491,Chatchai Chantra,Udon Thani,2021-07-26,Bronze,39
+1492,Rungnapa Yodying,Chiang Rai,2023-11-25,Silver,23
+1493,Kittisak Srisuk,Nakhon Si Thammarat,2020-04-21,Silver,59
+1494,Rungnapa Sinthop,Hat Yai,2020-08-06,Bronze,43
+1496,Orawan Intharak,Trang,2020-08-14,Bronze,61
+1497,Ploy Wongsawat,Trang,2022-08-24,Gold,25
+1498,Suree Boonmee,Udon Thani,2023-03-02,Silver,56
+1499,Somsri Yodying,Krabi,2020-07-26,Platinum,60
+1500,Sombat Wattana,Khon Kaen,2023-06-13,Silver,62
+1501,Chatchai Sukjai,Krabi,2022-10-24,Silver,57
+1502,Somkiat Kaewkla,Bangkok,2020-05-06,Silver,45
+1503,Nittaya Chaiyaporn,Trang,2022-01-04,Silver,33
+1504,Orawan Intharak,Krabi,2023-01-27,Bronze,47
+1505,Wichai Thongdee,Phuket,2022-06-23,Bronze,60
+1507,Nittaya Yodying,Chiang Rai,2021-08-28,Bronze,58
+1508,Niran Kaewkla,Udon Thani,2021-02-07,Bronze,62
+1509,Duangjai Prasertsak,Bangkok,2020-05-05,Silver,64
+1510,Suree Prasertsak,Khon Kaen,2021-10-20,Silver,51
+1511,Chaiyot Meesuk,Nong Khai,2020-12-02,Bronze,42
+1512,Duangjai Phetcharat,Pattaya,2020-07-10,Silver,38
+1513,Ploy Sinthop,Phuket,2020-11-16,Bronze,39
+1514,Pranee Thongdee,Lampang,2021-03-02,Platinum,43
+1515,Somkiat Thongdee,Phuket,2022-04-25,Gold,42
+1516,Anan Wongsawat,Nong Khai,2020-06-05,Gold,46
+1517,Anucha Phetcharat,Lampang,2022-01-15,Platinum,57
+1518,Ploy Meesuk,Ubon Ratchathani,2023-03-15,Silver,18
+1519,Sombat Panyawong,Bangkok,2022-05-11,Silver,30
+1520,Chatchai Naruemon,Bangkok,2023-11-10,Bronze,19
+1521,Ratana Sukjai,Hat Yai,2023-02-15,Gold,50
+1522,Ploy Wongsawat,Surat Thani,2020-10-05,Gold,56
+1523,Kanya Boonmee,Hat Yai,2021-01-30,Bronze,39
+1524,Malee Panyawong,Nakhon Ratchasima,2022-11-22,Bronze,28
+1525,Ploy Boonmee,Surat Thani,2023-12-24,Bronze,47
+1526,Niran Meesuk,Chiang Mai,2022-11-29,Gold,62
+1528,Siriporn Prasertsak,Nakhon Si Thammarat,2020-07-20,Silver,36
+1529,Rungnapa Chotirat,Rayong,2022-01-26,Silver,51
+1530,Suchart Srisuk,Phuket,2021-07-19,Bronze,26
+1531,Suree Yodying,Nakhon Ratchasima,2022-03-06,Gold,54
+1532,Chaiyot Yodying,Buriram,2022-09-26,Bronze,32
+1533,Suree Saelim,Chiang Rai,2021-05-05,Silver,19
+1534,Suchart Sinthop,Trang,2022-10-09,Bronze,37
+1535,Prasert Panyawong,Nakhon Ratchasima,2022-03-05,Silver,43
+1536,Chatchai Chaiyaporn,Lampang,2023-07-16,Gold,30
+1537,Nittaya Prasertsak,Krabi,2023-12-02,Bronze,30
+1539,Thawatchai Chantra,Bangkok,2023-07-19,Gold,48
+1540,Wichai Saelim,Ubon Ratchathani,2022-07-01,Gold,26
+1541,Anucha Wongsawat,Phuket,2022-02-05,Bronze,22
+1542,Anan Prasertsak,Phuket,2022-01-07,Bronze,57
+1543,Kittisak Meesuk,Hat Yai,2020-07-19,Gold,32
+1545,Chaiyot Sinthop,Krabi,2023-10-10,Gold,34
+1546,Somkiat Naruemon,Chiang Mai,2020-06-23,Platinum,49
+1547,Ratana Kaewkla,Chiang Rai,2023-03-25,Silver,38
+1548,Yupin Srisuk,Surat Thani,2022-10-05,Bronze,64
+1549,Wichai Chaiyaporn,Nakhon Si Thammarat,2022-08-09,Bronze,32
+1550,Ratana Phetcharat,Chiang Mai,2020-05-31,Platinum,47
+1551,Thawatchai Phetcharat,Ubon Ratchathani,2020-08-12,Gold,48
+1552,Somchai Boonmee,Surat Thani,2023-10-08,Silver,35
+1553,Chaiyot Saelim,Surat Thani,2023-05-04,Gold,50
+1554,Yupin Naruemon,Sakon Nakhon,2023-05-02,Silver,43
+1556,Sombat Meesuk,Nong Khai,2022-03-29,Gold,61
+1557,Rungnapa Rattanakul,Buriram,2020-12-25,Bronze,58
+1558,Kanya Sukjai,Surat Thani,2022-12-27,Silver,55
+1559,Wichai Saelim,Ubon Ratchathani,2020-03-25,Silver,48
+1560,Chomphunut Rattanakul,Udon Thani,2022-11-27,Bronze,44
+1562,Boonmee Naruemon,Phuket,2020-05-17,Gold,25
+1563,Anan Intharak,Phuket,2021-11-20,Bronze,58
+1564,Chatchai Chaiyaporn,Nonthaburi,2021-10-29,Silver,61
+1565,Somchai Sukjai,Chiang Rai,2023-09-10,Bronze,28
+1566,Kanya Chotirat,Phuket,2021-07-06,Gold,49
+1568,Orawan Chaiyaporn,Nakhon Ratchasima,2022-05-30,Gold,27
+1569,Somkiat Kaewkla,Lampang,2021-07-06,Gold,31
+1570,Wichai Prasertsak,Khon Kaen,2020-03-17,Bronze,20
+1571,Anucha Yodying,Buriram,2020-01-24,Silver,30
+1572,Pichit Rattanakul,Surat Thani,2022-01-05,Bronze,39
+1573,Pranee Boonmee,Khon Kaen,2021-11-26,Silver,36
+1574,Duangjai Saelim,Lampang,2020-07-27,Bronze,50
+1575,Thawatchai Wongsawat,Trang,2022-08-01,Bronze,30
+1576,Chaiyot Prasertsak,Udon Thani,2023-06-23,Gold,27
+1577,Kanya Wattana,Nonthaburi,2022-04-02,Bronze,27
+1578,Somchai Srisuk,Nonthaburi,2023-03-22,Platinum,31
+1579,Ploy Kaewkla,Bangkok,2023-11-06,Silver,39
+1580,Sombat Prasertsak,Trang,2023-03-04,Gold,43
+1581,Niran Meesuk,Krabi,2023-08-03,Gold,30
+1582,Nittaya Saelim,Sakon Nakhon,2022-04-10,Silver,61
+1583,Kanya Intharak,Sakon Nakhon,2021-01-09,Bronze,24
+1584,Kanya Srisuk,Nong Khai,2023-12-18,Gold,55
+1585,Ratana Kaewkla,Krabi,2020-07-07,Bronze,40
+1586,Somsri Srisuk,Nonthaburi,2020-09-26,Bronze,49
+1587,Suchart Phetcharat,Buriram,2022-04-13,Bronze,33
+1588,Kittisak Yodying,Nong Khai,2020-05-23,Platinum,45
+1589,Anan Prasertsak,Nong Khai,2023-05-06,Bronze,39
+1590,Kanya Yodying,Phuket,2022-01-20,Gold,43
+1591,Orawan Chantra,Khon Kaen,2021-03-09,Bronze,61
+1592,Kanya Phetcharat,Phuket,2023-01-08,Platinum,40
+1593,Somsri Panyawong,Khon Kaen,2023-10-16,Silver,46
+1594,Pichit Yodying,Nong Khai,2023-04-12,Silver,41
+1595,Siriporn Sinthop,Hat Yai,2021-05-05,Gold,23
+1597,Suchart Srisuk,Sakon Nakhon,2021-01-02,Bronze,46
+1600,Rungnapa Kaewkla,Rayong,2023-04-02,Gold,32
+1601,Suree Saelim,Khon Kaen,2023-05-21,Platinum,57
+1603,Anan Wongsawat,Chiang Mai,2021-10-24,Silver,43
+1604,Nittaya Wongsawat,Trang,2021-08-15,Silver,54
+1606,Duangjai Wongsawat,Ubon Ratchathani,2022-05-22,Bronze,21
+1607,Kanya Naruemon,Chiang Mai,2023-05-13,Gold,60
+1608,Kanya Prasertsak,Chiang Rai,2021-12-20,Silver,27
+1609,Chatchai Kaewkla,Krabi,2020-03-08,Silver,58
+1610,Pranee Wattana,Chiang Mai,2021-09-21,Silver,55
+1611,Nittaya Wattana,Surat Thani,2022-01-07,Silver,56
+1612,Malee Meesuk,Trang,2023-03-24,Silver,58
+1613,Nittaya Yodying,Hat Yai,2020-12-04,Bronze,47
+1614,Orawan Chaiyaporn,Khon Kaen,2023-01-11,Bronze,42
+1615,Wilai Sukjai,Khon Kaen,2021-09-03,Platinum,58
+1616,Orawan Sinthop,Hat Yai,2023-07-25,Platinum,37
+1617,Somsri Wongsawat,Krabi,2023-04-19,Bronze,46
+1618,Somchai Wattana,Nakhon Si Thammarat,2020-09-03,Silver,50
+1619,Wichai Yodying,Nakhon Ratchasima,2022-12-25,Bronze,42
+1620,Somsri Chaiyaporn,Udon Thani,2022-12-05,Silver,39
+1622,Malee Sinthop,Khon Kaen,2020-08-12,Bronze,49
+1623,Sombat Panyawong,Rayong,2022-02-22,Silver,32
+1624,Suree Rattanakul,Rayong,2021-04-07,Silver,19
+1625,Anan Thongdee,Sakon Nakhon,2021-06-27,Silver,30
+1626,Niran Wongsawat,Nonthaburi,2020-09-26,Bronze,54
+1627,Malee Saelim,Chiang Rai,2023-12-02,Silver,51
+1628,Suree Naruemon,Chiang Rai,2021-09-11,Bronze,56
+1629,Somsri Kaewkla,Nong Khai,2021-02-19,Silver,33
+1630,Chomphunut Sinthop,Surat Thani,2023-06-08,Platinum,47
+1631,Boonmee Chantra,Rayong,2023-05-21,Platinum,43
+1632,Niran Naruemon,Nakhon Si Thammarat,2023-07-20,Silver,38
+1633,Malee Rattanakul,Phuket,2023-09-18,Silver,27
+1634,Somchai Boonmee,Bangkok,2022-03-18,Bronze,63
+1635,Prasert Boonmee,Chiang Rai,2021-10-11,Bronze,44
+1636,Siriporn Yodying,Surat Thani,2020-05-13,Silver,47
+1637,Kittisak Rattanakul,Hat Yai,2020-02-01,Bronze,22
+1638,Ploy Wongsawat,Bangkok,2022-05-13,Bronze,38
+1639,Chaiyot Chantra,Rayong,2020-02-17,Platinum,64
+1640,Chatchai Kaewkla,Surat Thani,2021-07-01,Silver,18
+1641,Boonmee Yodying,Phuket,2020-10-07,Silver,57
+1642,Anan Chaiyaporn,Surat Thani,2022-05-31,Bronze,49
+1643,Pichit Phetcharat,Pattaya,2021-09-02,Gold,32
+1644,Suchart Chantra,Phuket,2022-04-01,Silver,28
+1645,Ploy Naruemon,Nong Khai,2020-06-21,Silver,42
+1646,Suchart Panyawong,Buriram,2021-12-19,Gold,45
+1647,Siriporn Phetcharat,Nong Khai,2021-04-21,Bronze,45
+1648,Somchai Yodying,Rayong,2021-01-23,Silver,28
+1649,Kanya Sinthop,Phuket,2020-07-01,Silver,58
+1651,Somsri Sinthop,Ubon Ratchathani,2022-04-11,Bronze,64
+1652,Somsri Naruemon,Ubon Ratchathani,2020-03-10,Bronze,62
+1653,Anan Chaiyaporn,Khon Kaen,2021-06-11,Platinum,61
+1654,Prasert Wongsawat,Rayong,2022-03-24,Bronze,25
+1655,Suree Boonmee,Rayong,2022-02-16,Bronze,56
+1656,Kittisak Wattana,Hat Yai,2023-11-08,Silver,28
+1657,Niran Chantra,Khon Kaen,2023-03-19,Gold,25
+1658,Prasert Panyawong,Sakon Nakhon,2023-08-16,Gold,54
+1659,Wilai Chaiyaporn,Pattaya,2022-12-28,Silver,25
+1660,Prasert Panyawong,Rayong,2020-01-16,Silver,38
+1661,Orawan Prasertsak,Nakhon Si Thammarat,2023-06-12,Silver,36
+1662,Duangjai Srisuk,Lampang,2022-02-11,Silver,39
+1663,Suree Wattana,Ubon Ratchathani,2023-10-31,Platinum,28
+1664,Orawan Boonmee,Nakhon Ratchasima,2021-02-27,Silver,18
+1665,Somchai Meesuk,Hat Yai,2022-03-16,Silver,32
+1666,Pranee Phetcharat,Sakon Nakhon,2020-07-19,Platinum,18
+1667,Pichit Naruemon,Buriram,2021-06-24,Silver,26
+1668,Chatchai Sinthop,Rayong,2022-05-11,Bronze,47
+1669,Rungnapa Prasertsak,Nakhon Si Thammarat,2020-05-28,Bronze,41
+1671,Orawan Yodying,Ubon Ratchathani,2022-05-03,Bronze,39
+1672,Boonmee Phetcharat,Sakon Nakhon,2023-09-15,Silver,20
+1673,Wichai Phetcharat,Nakhon Si Thammarat,2020-09-08,Gold,46
+1674,Malee Srisuk,Nonthaburi,2023-09-04,Bronze,46
+1675,Rungnapa Kaewkla,Buriram,2022-10-09,Bronze,36
+1676,Boonmee Sukjai,Krabi,2021-10-07,Silver,49
+1677,Wilai Meesuk,Nong Khai,2022-08-06,Silver,47
+1678,Niran Panyawong,Bangkok,2023-07-29,Bronze,36
+1679,Sombat Chantra,Krabi,2021-02-18,Silver,24
+1681,Rungnapa Wattana,Udon Thani,2021-04-20,Platinum,25
+1682,Anan Saelim,Lampang,2023-04-01,Silver,42
+1683,Suchart Sinthop,Phuket,2023-06-20,Gold,29
+1684,Chatchai Thongdee,Chiang Rai,2023-02-01,Silver,56
+1685,Kanya Yodying,Hat Yai,2021-02-15,Gold,63
+1686,Anan Chaiyaporn,Nonthaburi,2023-07-23,Gold,37
+1687,Nittaya Intharak,Rayong,2021-01-26,Silver,19
+1688,Ploy Panyawong,Surat Thani,2022-02-22,Silver,51
+1689,Malee Yodying,Buriram,2021-05-02,Gold,34
+1690,Kittisak Rattanakul,Khon Kaen,2023-09-30,Gold,40
+1691,Anan Prasertsak,Sakon Nakhon,2023-05-02,Platinum,61
+1692,Wilai Boonmee,Nakhon Si Thammarat,2023-12-08,Bronze,22
+1694,Suchart Rattanakul,Sakon Nakhon,2023-10-23,Gold,28
+1695,Ratana Phetcharat,Ubon Ratchathani,2020-06-25,Platinum,64
+1696,Pichit Naruemon,Nong Khai,2022-08-31,Silver,44
+1697,Malee Meesuk,Bangkok,2022-06-12,Bronze,59
+1698,Wichai Yodying,Buriram,2022-10-01,Gold,22
+1699,Sombat Wattana,Pattaya,2023-04-23,Bronze,45
+1700,Kittisak Meesuk,Nonthaburi,2021-01-21,Platinum,25
+1701,Suree Intharak,Ubon Ratchathani,2020-03-12,Silver,57
+1702,Yupin Rattanakul,Nonthaburi,2021-08-06,Bronze,33
+1703,Chatchai Kaewkla,Udon Thani,2022-10-26,Gold,56
+1704,Duangjai Prasertsak,Chiang Rai,2021-09-06,Silver,64
+1706,Thawatchai Prasertsak,Trang,2021-12-18,Silver,44
+1707,Siriporn Prasertsak,Chiang Rai,2021-03-13,Silver,39
+1708,Suree Prasertsak,Trang,2022-12-10,Bronze,58
+1709,Suchart Naruemon,Hat Yai,2022-06-06,Platinum,32
+1710,Kanya Thongdee,Pattaya,2023-06-23,Bronze,57
+1711,Kanya Meesuk,Nonthaburi,2021-04-15,Gold,29
+1712,Wichai Kaewkla,Lampang,2021-03-05,Platinum,22
+1713,Kittisak Chotirat,Buriram,2021-07-12,Bronze,60
+1714,Suchart Panyawong,Nonthaburi,2022-01-28,Bronze,50
+1715,Anan Sinthop,Ubon Ratchathani,2023-09-04,Bronze,60
+1716,Prasert Meesuk,Sakon Nakhon,2022-05-19,Silver,47
+1717,Anucha Saelim,Nong Khai,2021-05-08,Gold,32
+1718,Kanya Rattanakul,Hat Yai,2020-02-28,Platinum,43
+1719,Somkiat Naruemon,Phuket,2023-05-24,Bronze,46
+1720,Somsri Rattanakul,Nakhon Si Thammarat,2022-12-28,Silver,24
+1721,Somchai Phetcharat,Nakhon Si Thammarat,2021-11-18,Platinum,37
+1722,Kittisak Meesuk,Hat Yai,2022-03-15,Bronze,19
+1723,Boonmee Naruemon,Krabi,2020-08-09,Silver,61
+1724,Orawan Chantra,Krabi,2023-07-31,Bronze,44
+1725,Somsri Kaewkla,Khon Kaen,2020-06-20,Silver,59
+1726,Kanya Rattanakul,Nakhon Si Thammarat,2021-01-16,Bronze,52
+1727,Somsri Wongsawat,Pattaya,2022-01-15,Bronze,55
+1728,Wilai Chotirat,Chiang Rai,2023-12-02,Bronze,59
+1729,Suchart Boonmee,Ubon Ratchathani,2020-04-22,Gold,55
+1730,Siriporn Saelim,Nong Khai,2021-06-08,Silver,36
+1731,Yupin Thongdee,Nakhon Ratchasima,2022-12-24,Silver,23
+1732,Sombat Wattana,Ubon Ratchathani,2023-12-18,Bronze,52
+1733,Prasert Srisuk,Rayong,2023-11-06,Silver,26
+1734,Pranee Wattana,Rayong,2023-04-08,Platinum,43
+1735,Pichit Wattana,Phuket,2021-09-15,Gold,43
+1736,Siriporn Wongsawat,Sakon Nakhon,2021-11-20,Bronze,43
+1737,Somsri Chantra,Nonthaburi,2021-07-28,Silver,32
+1738,Niran Sukjai,Pattaya,2022-04-18,Bronze,53
+1739,Somsri Wongsawat,Hat Yai,2022-03-05,Bronze,39
+1740,Prasert Chaiyaporn,Nakhon Ratchasima,2020-07-25,Platinum,35
+1741,Wilai Wongsawat,Ubon Ratchathani,2021-12-18,Bronze,24
+1742,Boonmee Srisuk,Pattaya,2022-10-13,Silver,52
+1743,Boonmee Panyawong,Pattaya,2022-04-16,Gold,61
+1745,Ratana Chantra,Ubon Ratchathani,2022-08-07,Silver,55
+1747,Malee Wattana,Pattaya,2022-03-02,Bronze,18
+1748,Duangjai Boonmee,Buriram,2023-08-12,Bronze,22
+1749,Suchart Chaiyaporn,Hat Yai,2020-10-21,Silver,35
+1750,Rungnapa Phetcharat,Chiang Rai,2023-11-11,Gold,59
+1751,Ploy Phetcharat,Chiang Rai,2023-03-07,Bronze,34
+1752,Anan Yodying,Rayong,2020-08-15,Platinum,46
+1753,Pranee Sinthop,Nonthaburi,2022-08-19,Bronze,49
+1754,Chomphunut Intharak,Hat Yai,2022-01-30,Bronze,48
+1756,Wichai Intharak,Udon Thani,2020-05-10,Gold,45
+1757,Anan Thongdee,Nong Khai,2023-08-18,Silver,57
+1758,Chaiyot Prasertsak,Pattaya,2021-12-04,Bronze,34
+1760,Ratana Kaewkla,Surat Thani,2021-07-20,Gold,40
+1761,Chomphunut Kaewkla,Sakon Nakhon,2021-05-22,Bronze,41
+1762,Ratana Chaiyaporn,Phuket,2023-09-21,Silver,55
+1763,Duangjai Chotirat,Sakon Nakhon,2023-05-06,Gold,27
+1765,Kittisak Chantra,Bangkok,2020-11-01,Platinum,31
+1766,Ratana Yodying,Chiang Mai,2022-04-25,Silver,37
+1767,Somchai Chantra,Phuket,2020-05-12,Gold,43
+1768,Somkiat Wongsawat,Lampang,2023-01-10,Bronze,32
+1769,Chaiyot Sinthop,Phuket,2021-05-08,Bronze,40
+1770,Suchart Srisuk,Nakhon Ratchasima,2021-02-09,Bronze,58
+1771,Ratana Thongdee,Ubon Ratchathani,2023-04-30,Silver,24
+1772,Ratana Rattanakul,Surat Thani,2022-06-08,Platinum,47
+1773,Boonmee Boonmee,Bangkok,2021-10-03,Bronze,44
+1774,Chaiyot Chotirat,Nakhon Ratchasima,2023-02-07,Bronze,34
+1775,Kittisak Chantra,Pattaya,2020-11-07,Gold,35
+1776,Sombat Thongdee,Ubon Ratchathani,2023-05-05,Gold,53
+1777,Wichai Srisuk,Chiang Mai,2021-05-21,Silver,34
+1778,Somsri Intharak,Nong Khai,2020-07-30,Bronze,57
+1779,Wichai Sinthop,Sakon Nakhon,2023-02-23,Silver,47
+1780,Anan Chotirat,Nonthaburi,2020-05-29,Bronze,36
+1781,Wilai Chantra,Trang,2022-01-19,Bronze,61
+1782,Suree Saelim,Krabi,2023-07-10,Bronze,47
+1783,Malee Sukjai,Phuket,2023-09-21,Bronze,58
+1784,Siriporn Kaewkla,Nonthaburi,2021-09-02,Gold,26
+1785,Malee Saelim,Rayong,2022-09-06,Silver,39
+1786,Malee Boonmee,Hat Yai,2023-01-29,Silver,33
+1788,Pranee Sinthop,Buriram,2023-03-08,Silver,18
+1789,Nittaya Wongsawat,Khon Kaen,2023-02-05,Bronze,34
+1790,Duangjai Sukjai,Bangkok,2020-09-09,Bronze,24
+1791,Boonmee Chaiyaporn,Trang,2021-09-12,Silver,37
+1792,Orawan Phetcharat,Trang,2021-03-05,Silver,55
+1793,Niran Chaiyaporn,Pattaya,2022-08-23,Bronze,35
+1794,Wilai Sinthop,Nong Khai,2022-02-19,Bronze,22
+1795,Anan Wattana,Buriram,2020-01-03,Bronze,25
+1796,Pichit Thongdee,Hat Yai,2020-04-16,Platinum,19
+1797,Somkiat Meesuk,Nong Khai,2020-02-17,Bronze,46
+1799,Wilai Sinthop,Rayong,2020-02-12,Bronze,34
+1800,Wilai Wongsawat,Chiang Mai,2022-09-01,Gold,59
+1801,Boonmee Phetcharat,Chiang Rai,2023-04-29,Silver,45
+1803,Malee Chotirat,Buriram,2023-05-20,Bronze,44
+1804,Suchart Chaiyaporn,Chiang Mai,2020-05-28,Silver,28
+1805,Chaiyot Saelim,Nonthaburi,2023-10-09,Bronze,21
+1806,Malee Sinthop,Krabi,2020-07-11,Bronze,46
+1808,Siriporn Rattanakul,Nonthaburi,2022-04-22,Bronze,31
+1811,Wichai Meesuk,Lampang,2022-07-24,Bronze,44
+1813,Suree Wongsawat,Nakhon Si Thammarat,2022-11-18,Bronze,58
+1814,Somsri Intharak,Trang,2022-07-31,Gold,23
+1815,Boonmee Chaiyaporn,Lampang,2020-02-13,Bronze,29
+1816,Chomphunut Panyawong,Phuket,2021-10-20,Bronze,32
+1818,Pranee Sinthop,Phuket,2020-02-18,Bronze,61
+1819,Wilai Naruemon,Hat Yai,2023-09-24,Bronze,57
+1820,Ploy Kaewkla,Surat Thani,2021-07-03,Silver,36
+1821,Somkiat Yodying,Krabi,2022-05-23,Bronze,54
+1822,Duangjai Chotirat,Chiang Rai,2020-02-05,Bronze,36
+1823,Kanya Yodying,Nong Khai,2023-05-19,Silver,34
+1824,Chaiyot Chantra,Surat Thani,2022-11-22,Silver,52
+1825,Sombat Saelim,Nong Khai,2023-05-17,Gold,48
+1826,Sombat Thongdee,Khon Kaen,2021-03-18,Silver,64
+1827,Somchai Srisuk,Pattaya,2022-11-07,Silver,35
+1828,Wilai Phetcharat,Nakhon Si Thammarat,2022-12-14,Gold,40
+1830,Sombat Meesuk,Lampang,2021-06-16,Gold,35
+1831,Sombat Wattana,Nakhon Si Thammarat,2022-06-08,Bronze,28
+1832,Chatchai Naruemon,Hat Yai,2023-02-12,Bronze,46
+1833,Boonmee Thongdee,Chiang Mai,2020-03-22,Platinum,34
+1834,Rungnapa Phetcharat,Buriram,2023-07-18,Bronze,63
+1835,Chaiyot Rattanakul,Nong Khai,2022-09-26,Silver,64
+1836,Anan Sukjai,Rayong,2023-02-07,Bronze,59
+1837,Siriporn Yodying,Chiang Rai,2023-07-06,Silver,54
+1839,Siriporn Boonmee,Chiang Mai,2022-01-11,Silver,50
+1840,Rungnapa Naruemon,Hat Yai,2022-02-20,Bronze,45
+1841,Anucha Saelim,Ubon Ratchathani,2023-12-21,Platinum,49
+1842,Chomphunut Chaiyaporn,Sakon Nakhon,2021-01-30,Gold,44
+1843,Somsri Sukjai,Trang,2022-05-01,Platinum,49
+1844,Anan Panyawong,Surat Thani,2020-03-03,Gold,32
+1845,Chatchai Saelim,Chiang Mai,2023-04-17,Bronze,38
+1846,Anan Chaiyaporn,Sakon Nakhon,2021-09-10,Bronze,41
+1847,Chatchai Saelim,Trang,2023-08-30,Silver,32
+1848,Kittisak Sinthop,Nonthaburi,2022-07-06,Gold,37
+1849,Somkiat Sukjai,Nonthaburi,2021-06-02,Bronze,63
+1850,Somchai Boonmee,Phuket,2021-11-28,Gold,59
+1851,Wilai Rattanakul,Ubon Ratchathani,2023-07-16,Bronze,44
+1852,Suchart Sukjai,Trang,2021-11-19,Platinum,45
+1853,Kittisak Phetcharat,Nakhon Ratchasima,2020-07-16,Silver,44
+1854,Duangjai Thongdee,Trang,2020-10-07,Platinum,59
+1855,Chomphunut Meesuk,Krabi,2020-06-07,Gold,62
+1856,Anan Chantra,Pattaya,2020-10-05,Bronze,35
+1858,Wilai Prasertsak,Chiang Mai,2023-07-03,Gold,42
+1859,Malee Panyawong,Udon Thani,2020-12-16,Silver,45
+1860,Kittisak Wattana,Buriram,2022-07-19,Silver,49
+1861,Prasert Naruemon,Phuket,2022-11-17,Bronze,19
+1863,Wichai Prasertsak,Buriram,2020-06-25,Gold,25
+1864,Anucha Phetcharat,Rayong,2021-10-05,Bronze,18
+1865,Suchart Chotirat,Nakhon Si Thammarat,2022-05-21,Silver,33
+1866,Prasert Wattana,Trang,2023-02-20,Platinum,18
+1867,Anucha Meesuk,Lampang,2023-04-22,Silver,62
+1868,Niran Chantra,Phuket,2022-10-18,Gold,20
+1870,Somsri Wongsawat,Lampang,2020-08-29,Platinum,34
+1871,Malee Sinthop,Sakon Nakhon,2023-02-16,Gold,64
+1872,Malee Prasertsak,Trang,2022-08-01,Platinum,38
+1873,Chomphunut Panyawong,Nong Khai,2020-08-10,Gold,39
+1874,Kittisak Sinthop,Nakhon Ratchasima,2023-08-01,Platinum,45
+1875,Malee Prasertsak,Bangkok,2020-01-23,Bronze,48
+1876,Pranee Saelim,Khon Kaen,2021-10-13,Gold,26
+1877,Somsri Chantra,Bangkok,2021-11-19,Bronze,29
+1878,Yupin Naruemon,Udon Thani,2022-09-05,Silver,39
+1880,Ploy Saelim,Chiang Rai,2022-11-27,Gold,36
+1882,Thawatchai Rattanakul,Krabi,2022-12-28,Bronze,55
+1883,Prasert Intharak,Surat Thani,2022-01-22,Silver,28
+1884,Somkiat Sinthop,Sakon Nakhon,2023-02-11,Bronze,26
+1885,Suree Chantra,Buriram,2021-03-20,Gold,48
+1886,Prasert Sinthop,Nonthaburi,2022-07-08,Bronze,35
+1887,Siriporn Chotirat,Udon Thani,2020-11-07,Silver,33
+1888,Wichai Chantra,Rayong,2023-06-10,Bronze,57
+1890,Niran Boonmee,Buriram,2022-03-10,Gold,37
+1891,Sombat Meesuk,Chiang Rai,2020-11-14,Bronze,52
+1892,Malee Wattana,Sakon Nakhon,2023-03-03,Gold,64
+1893,Suree Chaiyaporn,Bangkok,2023-03-26,Bronze,63
+1894,Duangjai Saelim,Nakhon Ratchasima,2022-05-17,Silver,51
+1895,Prasert Kaewkla,Chiang Rai,2022-01-06,Gold,60
+1896,Somkiat Chotirat,Bangkok,2021-04-30,Bronze,54
+1897,Orawan Panyawong,Buriram,2022-08-01,Bronze,40
+1898,Suree Srisuk,Chiang Mai,2022-11-20,Bronze,19
+1899,Suree Chaiyaporn,Hat Yai,2020-08-25,Silver,21
+1900,Kanya Sukjai,Buriram,2021-02-09,Bronze,44
+1901,Duangjai Wattana,Nong Khai,2023-04-18,Gold,19
+1902,Somkiat Yodying,Bangkok,2022-11-15,Bronze,54
+1904,Ratana Saelim,Krabi,2021-06-29,Silver,55
+1905,Siriporn Chaiyaporn,Surat Thani,2022-06-02,Bronze,44
+1906,Wichai Phetcharat,Pattaya,2020-04-15,Platinum,35
+1908,Kanya Wattana,Chiang Mai,2021-07-17,Gold,55
+1909,Somkiat Chaiyaporn,Ubon Ratchathani,2020-05-02,Bronze,42
+1910,Somchai Chaiyaporn,Lampang,2021-03-20,Silver,64
+1911,Somchai Chotirat,Surat Thani,2020-03-05,Platinum,55
+1912,Siriporn Kaewkla,Surat Thani,2023-05-08,Bronze,48
+1913,Pranee Saelim,Sakon Nakhon,2023-01-14,Bronze,24
+1914,Siriporn Intharak,Buriram,2021-05-04,Silver,44
+1915,Kanya Yodying,Rayong,2022-03-16,Silver,37
+1916,Thawatchai Kaewkla,Udon Thani,2021-09-15,Bronze,45
+1917,Thawatchai Sukjai,Nakhon Si Thammarat,2021-08-13,Platinum,31
+1918,Suchart Chantra,Bangkok,2021-01-28,Bronze,29
+1919,Wilai Phetcharat,Lampang,2023-11-02,Silver,45
+1920,Malee Sukjai,Chiang Mai,2022-02-10,Gold,18
+1921,Somchai Meesuk,Nonthaburi,2023-12-24,Bronze,64
+1922,Pichit Sukjai,Hat Yai,2020-02-18,Silver,56
+1923,Sombat Rattanakul,Bangkok,2023-05-24,Silver,28
+1924,Anan Sukjai,Sakon Nakhon,2020-08-31,Gold,56
+1925,Yupin Prasertsak,Surat Thani,2020-05-13,Silver,63
+1926,Chaiyot Prasertsak,Pattaya,2021-09-09,Bronze,21
+1927,Somchai Chaiyaporn,Ubon Ratchathani,2023-11-13,Gold,34
+1928,Somkiat Intharak,Pattaya,2020-10-22,Bronze,26
+1929,Kittisak Chantra,Udon Thani,2020-09-01,Platinum,58
+1930,Wilai Chotirat,Pattaya,2023-06-24,Silver,63
+1931,Sombat Wattana,Chiang Mai,2020-10-01,Bronze,56
+1932,Orawan Saelim,Sakon Nakhon,2022-09-01,Bronze,38
+1933,Suree Phetcharat,Udon Thani,2022-08-22,Gold,48
+1934,Kanya Thongdee,Ubon Ratchathani,2021-08-23,Gold,30
+1935,Kittisak Srisuk,Rayong,2020-11-19,Silver,61
+1936,Somsri Chaiyaporn,Krabi,2022-11-16,Gold,55
+1938,Ploy Srisuk,Ubon Ratchathani,2023-05-20,Silver,35
+1939,Chaiyot Thongdee,Ubon Ratchathani,2021-07-28,Bronze,52
+1940,Kanya Thongdee,Nakhon Si Thammarat,2020-06-19,Silver,33
+1941,Somsri Rattanakul,Chiang Rai,2020-03-21,Gold,40
+1942,Somchai Wattana,Nonthaburi,2021-03-26,Bronze,53
+1943,Ploy Wongsawat,Hat Yai,2020-02-15,Silver,37
+1944,Wichai Yodying,Bangkok,2023-02-21,Bronze,49
+1945,Suchart Saelim,Nakhon Si Thammarat,2022-03-31,Bronze,64
+1946,Wilai Saelim,Bangkok,2020-05-12,Gold,43
+1947,Somkiat Yodying,Phuket,2022-06-19,Bronze,52
+1948,Boonmee Wattana,Surat Thani,2023-08-30,Gold,64
+1950,Malee Saelim,Phuket,2021-04-29,Platinum,32
+1951,Duangjai Boonmee,Surat Thani,2022-07-12,Silver,34
+1952,Duangjai Chaiyaporn,Nong Khai,2020-08-25,Silver,59
+1953,Kittisak Phetcharat,Ubon Ratchathani,2022-04-15,Bronze,27
+1954,Pichit Intharak,Nakhon Si Thammarat,2021-10-04,Silver,47
+1955,Somchai Sinthop,Nakhon Si Thammarat,2021-01-27,Bronze,40
+1956,Yupin Yodying,Nakhon Si Thammarat,2022-09-07,Silver,36
+1957,Suree Naruemon,Nong Khai,2021-06-17,Platinum,59
+1958,Anan Naruemon,Pattaya,2023-07-29,Platinum,34
+1959,Malee Meesuk,Phuket,2020-03-13,Silver,57
+1960,Pranee Prasertsak,Nakhon Ratchasima,2023-03-19,Silver,47
+1961,Kanya Chaiyaporn,Nakhon Ratchasima,2021-07-05,Gold,27
+1962,Pranee Panyawong,Nakhon Si Thammarat,2022-08-25,Silver,45
+1963,Kittisak Prasertsak,Bangkok,2021-08-05,Platinum,45
+1965,Pichit Chaiyaporn,Nakhon Si Thammarat,2022-04-13,Bronze,58
+1966,Prasert Intharak,Rayong,2023-03-24,Bronze,58
+1967,Chomphunut Yodying,Nonthaburi,2020-06-08,Silver,62
+1968,Chomphunut Saelim,Nong Khai,2022-01-25,Gold,52
+1969,Prasert Kaewkla,Surat Thani,2023-07-11,Platinum,39
+1970,Somkiat Wongsawat,Phuket,2021-09-28,Silver,64
+1971,Anan Saelim,Hat Yai,2020-07-31,Silver,29
+1972,Somchai Thongdee,Lampang,2022-06-07,Bronze,48
+1973,Prasert Meesuk,Udon Thani,2023-02-24,Bronze,19
+1974,Boonmee Wongsawat,Udon Thani,2023-10-27,Bronze,34
+1975,Malee Panyawong,Surat Thani,2023-08-05,Gold,34
+1976,Suchart Sinthop,Nong Khai,2022-10-24,Bronze,33
+1977,Niran Wattana,Nong Khai,2022-10-04,Gold,26
+1979,Kanya Sinthop,Trang,2022-04-27,Platinum,45
+1980,Orawan Intharak,Ubon Ratchathani,2021-08-03,Silver,30
+1981,Nittaya Phetcharat,Chiang Mai,2023-02-25,Silver,42
+1982,Boonmee Saelim,Nakhon Si Thammarat,2022-01-29,Silver,43
+1983,Pichit Srisuk,Udon Thani,2021-01-19,Silver,20
+1984,Yupin Srisuk,Bangkok,2022-05-20,Silver,61
+1985,Ratana Meesuk,Nakhon Si Thammarat,2020-05-19,Platinum,46
+1986,Thawatchai Kaewkla,Chiang Mai,2021-10-01,Bronze,20
+1987,Rungnapa Wongsawat,Ubon Ratchathani,2021-07-03,Gold,41
+1988,Chaiyot Wattana,Chiang Mai,2021-10-28,Silver,18
+1989,Thawatchai Boonmee,Trang,2022-04-18,Platinum,48
+1991,Thawatchai Thongdee,Phuket,2020-05-31,Silver,43
+1992,Wichai Chaiyaporn,Ubon Ratchathani,2021-01-19,Silver,36
+1993,Somchai Rattanakul,Trang,2021-07-14,Silver,23
+1994,Pranee Wattana,Nonthaburi,2022-12-08,Silver,42
+1995,Orawan Thongdee,Ubon Ratchathani,2023-10-24,Bronze,49
+1996,Siriporn Sukjai,Udon Thani,2020-07-06,Silver,47
+1997,Pichit Srisuk,Lampang,2021-01-06,Silver,36
+1998,Somchai Chaiyaporn,Krabi,2020-09-19,Gold,58
+2000,Wichai Chaiyaporn,Udon Thani,2023-01-30,Platinum,32
+2002,Pichit Boonmee,Udon Thani,2022-07-31,Gold,55
+2003,Suree Chaiyaporn,Chiang Mai,2023-07-09,Platinum,32
+2004,Anan Chotirat,Nakhon Si Thammarat,2022-04-12,Gold,53
+2005,Chatchai Chantra,Bangkok,2020-07-08,Bronze,52
+2006,Suchart Intharak,Buriram,2023-04-11,Silver,59
+2007,Kittisak Boonmee,Nakhon Ratchasima,2023-03-08,Silver,35
+2008,Kittisak Sinthop,Udon Thani,2022-01-29,Gold,25
+2009,Pranee Meesuk,Rayong,2021-01-07,Silver,41
+2010,Suchart Wongsawat,Trang,2020-11-08,Gold,19
+2011,Pranee Chaiyaporn,Chiang Rai,2023-05-16,Silver,63
+2012,Somsri Boonmee,Rayong,2023-11-24,Bronze,35
+2013,Boonmee Kaewkla,Surat Thani,2023-12-14,Bronze,60
+2014,Nittaya Rattanakul,Lampang,2020-02-02,Bronze,40
+2015,Wichai Rattanakul,Ubon Ratchathani,2023-01-09,Platinum,29
+2016,Rungnapa Wongsawat,Buriram,2020-12-03,Gold,55
+2017,Duangjai Panyawong,Chiang Mai,2022-11-13,Platinum,50
+2019,Niran Yodying,Nong Khai,2021-01-12,Silver,59
+2020,Prasert Srisuk,Pattaya,2020-11-20,Bronze,37
+2021,Siriporn Prasertsak,Pattaya,2023-09-20,Bronze,27
+2022,Orawan Kaewkla,Rayong,2022-02-06,Silver,53
+2023,Somsri Chantra,Nonthaburi,2020-09-30,Gold,39
+2024,Orawan Panyawong,Chiang Rai,2021-02-09,Bronze,26
+2025,Chatchai Wattana,Sakon Nakhon,2023-04-12,Silver,53
+2026,Anucha Phetcharat,Bangkok,2022-08-25,Silver,49
+2028,Yupin Kaewkla,Phuket,2022-10-06,Silver,63
+2030,Wilai Srisuk,Bangkok,2021-05-07,Gold,60
+2031,Rungnapa Yodying,Bangkok,2023-08-17,Bronze,34
+2032,Somchai Yodying,Surat Thani,2022-11-02,Silver,45
+2033,Anucha Rattanakul,Krabi,2023-04-11,Silver,29
+2035,Siriporn Phetcharat,Lampang,2022-12-23,Gold,22
+2036,Pichit Chaiyaporn,Sakon Nakhon,2023-07-30,Silver,44
+2037,Ploy Chotirat,Ubon Ratchathani,2022-03-03,Silver,37
+2038,Suchart Boonmee,Ubon Ratchathani,2020-09-12,Silver,63
+2039,Thawatchai Kaewkla,Udon Thani,2021-09-22,Platinum,49
+2040,Malee Yodying,Phuket,2023-05-29,Silver,33
+2042,Somchai Saelim,Lampang,2021-01-19,Silver,63
+2043,Suchart Kaewkla,Udon Thani,2023-09-10,Bronze,52
+2044,Chatchai Chaiyaporn,Rayong,2021-06-19,Silver,24
+2045,Somchai Chantra,Nakhon Si Thammarat,2022-04-08,Silver,31
+2046,Nittaya Rattanakul,Nonthaburi,2020-09-29,Platinum,22
+2048,Nittaya Thongdee,Khon Kaen,2021-05-09,Bronze,52
+2049,Nittaya Chotirat,Surat Thani,2021-08-02,Platinum,62
+2050,Siriporn Saelim,Sakon Nakhon,2023-10-07,Gold,30
+2051,Prasert Chotirat,Bangkok,2023-05-23,Bronze,18
+2052,Malee Kaewkla,Ubon Ratchathani,2022-03-01,Bronze,18
+2053,Boonmee Wongsawat,Nong Khai,2023-06-03,Gold,56
+2054,Pichit Meesuk,Khon Kaen,2023-05-03,Bronze,63
+2056,Nittaya Thongdee,Buriram,2020-07-21,Bronze,23
+2058,Pranee Boonmee,Surat Thani,2020-09-16,Bronze,47
+2059,Nittaya Intharak,Buriram,2020-07-26,Gold,59
+2060,Rungnapa Rattanakul,Trang,2022-09-06,Gold,48
+2062,Somkiat Panyawong,Phuket,2022-04-04,Gold,57
+2063,Siriporn Rattanakul,Trang,2021-01-23,Silver,56
+2064,Chaiyot Sinthop,Hat Yai,2023-09-24,Silver,22
+2065,Kittisak Boonmee,Khon Kaen,2021-02-09,Gold,51
+2066,Ratana Srisuk,Pattaya,2022-03-10,Silver,24
+2067,Siriporn Wongsawat,Nong Khai,2020-08-17,Bronze,38
+2069,Duangjai Prasertsak,Pattaya,2022-01-26,Gold,63
+2070,Ratana Intharak,Sakon Nakhon,2021-10-10,Bronze,26
+2071,Anucha Thongdee,Hat Yai,2022-03-09,Bronze,39
+2072,Chaiyot Meesuk,Phuket,2022-07-17,Silver,52
+2074,Sombat Sukjai,Nakhon Ratchasima,2021-06-17,Bronze,27
+2076,Ploy Wattana,Pattaya,2021-11-19,Bronze,34
+2077,Chatchai Wattana,Trang,2022-12-22,Bronze,63
+2078,Somkiat Chaiyaporn,Krabi,2021-06-06,Silver,31
+2079,Siriporn Chotirat,Chiang Rai,2023-09-10,Bronze,28
+2080,Niran Saelim,Nakhon Ratchasima,2023-08-10,Gold,59
+2081,Wichai Naruemon,Chiang Rai,2022-09-19,Bronze,55
+2082,Chomphunut Intharak,Phuket,2022-03-09,Bronze,60
+2083,Suree Panyawong,Nonthaburi,2020-02-05,Gold,28
+2085,Malee Naruemon,Lampang,2022-10-22,Bronze,57
+2086,Sombat Prasertsak,Udon Thani,2023-02-28,Bronze,57
+2087,Thawatchai Meesuk,Surat Thani,2020-01-01,Gold,37
+2088,Wichai Panyawong,Lampang,2021-10-27,Silver,20
+2089,Sombat Meesuk,Udon Thani,2020-06-19,Platinum,38
+2090,Anucha Wongsawat,Nakhon Ratchasima,2021-06-06,Silver,53
+2091,Prasert Kaewkla,Nakhon Ratchasima,2022-10-15,Bronze,51
+2092,Chatchai Wattana,Bangkok,2021-04-29,Platinum,38
+2093,Wichai Sukjai,Bangkok,2021-08-23,Bronze,27
+2095,Kanya Panyawong,Surat Thani,2021-09-09,Silver,56
+2096,Wilai Saelim,Nakhon Si Thammarat,2023-10-07,Bronze,49
+2097,Siriporn Thongdee,Chiang Rai,2020-01-27,Silver,19
+2098,Kanya Panyawong,Buriram,2023-03-08,Bronze,30
+2099,Suchart Prasertsak,Surat Thani,2020-10-03,Platinum,47
+2100,Suree Rattanakul,Krabi,2023-11-03,Silver,50
+2101,Malee Rattanakul,Trang,2023-04-29,Silver,34
+2102,Suchart Sinthop,Surat Thani,2023-10-10,Silver,20
+2103,Wichai Sukjai,Khon Kaen,2021-09-19,Bronze,38
+2104,Rungnapa Kaewkla,Bangkok,2022-10-05,Gold,52
+2105,Suree Kaewkla,Ubon Ratchathani,2023-07-01,Bronze,50
+2107,Ratana Prasertsak,Hat Yai,2023-02-11,Gold,54
+2108,Suchart Rattanakul,Chiang Mai,2022-10-10,Bronze,43
+2109,Somkiat Rattanakul,Hat Yai,2021-10-21,Silver,42
+2110,Prasert Wongsawat,Krabi,2021-01-22,Bronze,58
+2111,Kittisak Sinthop,Krabi,2023-12-16,Bronze,42
+2112,Sombat Chaiyaporn,Udon Thani,2023-03-21,Bronze,21
+2114,Somchai Sinthop,Buriram,2020-09-16,Bronze,56
+2115,Yupin Yodying,Lampang,2023-01-04,Gold,44
+2118,Pichit Meesuk,Krabi,2020-09-30,Bronze,47
+2119,Anucha Kaewkla,Pattaya,2021-06-03,Bronze,50
+2120,Sombat Srisuk,Nakhon Si Thammarat,2021-08-26,Bronze,56
+2121,Wichai Prasertsak,Hat Yai,2020-02-24,Platinum,47
+2122,Wilai Sinthop,Rayong,2023-05-10,Bronze,31
+2123,Somchai Meesuk,Nong Khai,2022-05-17,Bronze,20
+2124,Orawan Yodying,Nakhon Si Thammarat,2023-08-29,Bronze,36
+2125,Pichit Chotirat,Buriram,2023-09-07,Gold,51
+2126,Thawatchai Yodying,Khon Kaen,2023-06-02,Bronze,43
+2127,Yupin Meesuk,Surat Thani,2022-07-31,Silver,63
+2129,Chomphunut Chotirat,Rayong,2023-12-26,Gold,30
+2130,Yupin Meesuk,Sakon Nakhon,2022-01-15,Gold,43
+2131,Chomphunut Thongdee,Nong Khai,2023-05-13,Silver,44
+2132,Somkiat Rattanakul,Krabi,2023-11-08,Gold,61
+2133,Sombat Yodying,Buriram,2022-09-25,Silver,59
+2134,Niran Prasertsak,Trang,2022-05-19,Bronze,56
+2135,Somkiat Rattanakul,Bangkok,2021-09-29,Bronze,22
+2136,Kittisak Yodying,Pattaya,2021-07-16,Gold,50
+2137,Kanya Sinthop,Lampang,2020-08-28,Bronze,34
+2138,Pichit Thongdee,Surat Thani,2023-01-24,Platinum,42
+2139,Prasert Yodying,Nakhon Ratchasima,2022-04-03,Bronze,50
+2140,Nittaya Naruemon,Krabi,2020-05-30,Gold,36
+2141,Somchai Wattana,Bangkok,2022-12-07,Bronze,44
+2142,Yupin Yodying,Rayong,2020-02-09,Platinum,19
+2143,Anucha Thongdee,Phuket,2022-12-08,Gold,55
+2144,Kittisak Panyawong,Nonthaburi,2022-02-22,Silver,31
+2145,Chatchai Srisuk,Krabi,2021-11-01,Silver,18
+2146,Chaiyot Phetcharat,Hat Yai,2023-04-19,Bronze,62
+2147,Orawan Rattanakul,Pattaya,2023-03-20,Silver,18
+2148,Somsri Prasertsak,Udon Thani,2022-02-06,Gold,38
+2149,Ploy Wongsawat,Pattaya,2022-07-20,Gold,23
+2150,Malee Wongsawat,Phuket,2021-05-23,Bronze,56
+2151,Anucha Chantra,Nonthaburi,2022-03-06,Platinum,30
+2152,Pranee Chotirat,Lampang,2021-09-20,Gold,42
+2153,Sombat Intharak,Sakon Nakhon,2021-09-25,Bronze,50
+2154,Suchart Phetcharat,Khon Kaen,2023-10-27,Bronze,37
+2155,Anucha Srisuk,Hat Yai,2021-10-21,Silver,39
+2156,Somkiat Chantra,Chiang Mai,2023-02-14,Bronze,19
+2157,Anucha Panyawong,Lampang,2020-08-17,Bronze,47
+2158,Ratana Naruemon,Nonthaburi,2023-07-04,Bronze,48
+2159,Suchart Thongdee,Chiang Rai,2023-11-08,Bronze,31
+2160,Chaiyot Saelim,Sakon Nakhon,2020-03-11,Bronze,49
+2162,Chatchai Rattanakul,Phuket,2023-01-15,Bronze,53
+2163,Suree Wattana,Lampang,2020-07-03,Platinum,41
+2164,Siriporn Chaiyaporn,Chiang Mai,2020-11-12,Gold,61
+2165,Prasert Prasertsak,Udon Thani,2020-08-16,Bronze,51
+2166,Chaiyot Sinthop,Bangkok,2023-10-26,Silver,52
+2167,Somsri Srisuk,Buriram,2020-06-22,Bronze,62
+2168,Anan Yodying,Udon Thani,2023-05-18,Silver,62
+2169,Orawan Yodying,Khon Kaen,2021-08-28,Gold,39
+2170,Somkiat Chantra,Lampang,2021-03-08,Gold,41
+2171,Thawatchai Prasertsak,Surat Thani,2021-11-14,Platinum,38
+2172,Pranee Meesuk,Rayong,2020-08-31,Silver,24
+2174,Duangjai Sinthop,Phuket,2022-12-11,Bronze,62
+2175,Anucha Meesuk,Buriram,2021-04-23,Platinum,63
+2176,Rungnapa Sinthop,Bangkok,2020-07-22,Silver,57
+2177,Sombat Wongsawat,Buriram,2020-05-07,Bronze,22
+2178,Malee Sukjai,Sakon Nakhon,2023-01-24,Bronze,36
+2179,Orawan Boonmee,Krabi,2022-05-25,Gold,34
+2180,Rungnapa Wongsawat,Surat Thani,2021-08-22,Bronze,41
+2181,Nittaya Intharak,Surat Thani,2020-09-19,Gold,31
+2182,Suree Meesuk,Pattaya,2020-11-22,Gold,58
+2183,Boonmee Sukjai,Hat Yai,2023-11-24,Silver,31
+2184,Siriporn Yodying,Hat Yai,2022-08-10,Silver,21
+2185,Sombat Kaewkla,Rayong,2022-11-03,Silver,46
+2186,Chatchai Intharak,Udon Thani,2020-03-15,Bronze,60
+2188,Somkiat Sukjai,Lampang,2021-06-24,Gold,49
+2189,Chatchai Phetcharat,Bangkok,2020-04-17,Silver,36
+2190,Siriporn Meesuk,Pattaya,2021-02-23,Silver,27
+2191,Prasert Sinthop,Pattaya,2022-04-23,Bronze,26
+2193,Chomphunut Prasertsak,Ubon Ratchathani,2023-12-28,Bronze,54
+2194,Ratana Thongdee,Buriram,2023-01-21,Gold,24
+2195,Nittaya Srisuk,Ubon Ratchathani,2022-06-22,Bronze,55
+2196,Rungnapa Prasertsak,Trang,2022-10-28,Bronze,26
+2197,Siriporn Meesuk,Nonthaburi,2020-03-29,Gold,45
+2198,Somkiat Kaewkla,Buriram,2021-04-01,Bronze,30
+2199,Niran Phetcharat,Phuket,2022-05-30,Bronze,47
+2201,Nittaya Yodying,Nakhon Ratchasima,2022-04-21,Bronze,49
+2202,Wilai Boonmee,Nakhon Si Thammarat,2022-01-06,Silver,63
+2203,Chomphunut Chantra,Chiang Mai,2022-01-23,Silver,45
+2205,Wichai Kaewkla,Ubon Ratchathani,2020-11-10,Silver,23
+2206,Yupin Sinthop,Nakhon Ratchasima,2020-11-19,Silver,23
+2207,Somsri Boonmee,Nakhon Ratchasima,2020-07-28,Silver,25
+2208,Boonmee Chotirat,Krabi,2021-03-05,Gold,46
+2209,Kittisak Panyawong,Bangkok,2023-06-09,Bronze,44
+2211,Rungnapa Sukjai,Surat Thani,2022-03-06,Bronze,28
+2212,Anucha Chantra,Pattaya,2020-05-14,Silver,23
+2213,Somkiat Chotirat,Chiang Mai,2023-03-02,Bronze,49
+2214,Somchai Srisuk,Lampang,2023-10-30,Bronze,52
+2215,Suchart Boonmee,Udon Thani,2022-04-24,Bronze,34
+2216,Somkiat Kaewkla,Nong Khai,2022-09-13,Bronze,36
+2217,Prasert Wattana,Bangkok,2023-07-11,Platinum,56
+2218,Pranee Chotirat,Nong Khai,2021-05-03,Silver,20
+2219,Wichai Meesuk,Bangkok,2023-08-23,Gold,45
+2223,Malee Naruemon,Khon Kaen,2021-03-23,Gold,31
+2224,Siriporn Sukjai,Chiang Rai,2023-10-04,Silver,53
+2225,Suchart Sinthop,Khon Kaen,2021-08-04,Silver,18
+2226,Rungnapa Intharak,Krabi,2021-09-04,Gold,18
+2227,Malee Wattana,Nong Khai,2021-10-04,Bronze,26
+2229,Kittisak Wattana,Nong Khai,2020-03-13,Silver,43
+2230,Rungnapa Boonmee,Trang,2021-09-09,Silver,61
+2232,Chomphunut Intharak,Krabi,2021-08-10,Bronze,63
+2233,Rungnapa Kaewkla,Nakhon Ratchasima,2022-08-02,Bronze,38
+2234,Suchart Phetcharat,Surat Thani,2022-01-05,Bronze,61
+2235,Pichit Wongsawat,Trang,2020-12-01,Gold,57
+2236,Anucha Boonmee,Surat Thani,2022-02-26,Bronze,56
+2237,Suree Naruemon,Hat Yai,2020-03-16,Bronze,37
+2238,Chomphunut Rattanakul,Chiang Mai,2020-06-05,Gold,24
+2239,Ploy Rattanakul,Lampang,2021-06-18,Silver,20
+2240,Prasert Yodying,Nong Khai,2020-09-24,Bronze,21
+2241,Kanya Sukjai,Buriram,2022-12-05,Bronze,32
+2243,Nittaya Phetcharat,Nakhon Si Thammarat,2023-07-28,Bronze,35
+2244,Ploy Chaiyaporn,Nakhon Ratchasima,2023-09-09,Silver,27
+2245,Nittaya Naruemon,Hat Yai,2022-02-09,Platinum,50
+2246,Kittisak Sukjai,Krabi,2022-08-22,Bronze,64
+2247,Pichit Phetcharat,Buriram,2021-07-25,Platinum,58
+2248,Kanya Phetcharat,Nonthaburi,2020-09-03,Platinum,23
+2249,Malee Intharak,Ubon Ratchathani,2021-07-31,Bronze,37
+2250,Wilai Srisuk,Krabi,2023-12-23,Silver,22
+2251,Malee Panyawong,Ubon Ratchathani,2021-10-16,Gold,64
+2252,Sombat Chotirat,Pattaya,2021-07-21,Silver,64
+2253,Nittaya Kaewkla,Chiang Rai,2022-05-11,Silver,62
+2254,Boonmee Naruemon,Trang,2020-10-31,Bronze,52
+2256,Siriporn Yodying,Chiang Rai,2021-11-03,Silver,55
+2257,Ratana Boonmee,Nong Khai,2021-02-20,Silver,59
+2258,Malee Chantra,Udon Thani,2022-03-11,Bronze,27
+2259,Somkiat Srisuk,Nong Khai,2022-02-04,Silver,32
+2260,Somchai Wattana,Chiang Rai,2020-07-07,Platinum,40
+2262,Somsri Panyawong,Trang,2023-06-06,Bronze,20
+2263,Rungnapa Rattanakul,Nong Khai,2022-03-22,Gold,30
+2264,Anucha Phetcharat,Sakon Nakhon,2021-01-21,Silver,21
+2265,Nittaya Sukjai,Phuket,2021-12-02,Gold,59
+2266,Somsri Wongsawat,Surat Thani,2022-01-01,Silver,48
+2267,Pichit Yodying,Surat Thani,2023-03-25,Bronze,42
+2269,Somkiat Sukjai,Ubon Ratchathani,2020-11-26,Bronze,53
+2271,Niran Rattanakul,Buriram,2020-10-25,Gold,55
+2273,Yupin Chantra,Pattaya,2021-07-25,Silver,36
+2274,Niran Phetcharat,Nong Khai,2022-08-05,Silver,35
+2275,Chatchai Saelim,Nong Khai,2021-06-26,Bronze,59
+2276,Ploy Wongsawat,Chiang Mai,2021-05-25,Silver,62
+2277,Duangjai Yodying,Udon Thani,2023-01-10,Bronze,22
+2278,Niran Yodying,Khon Kaen,2021-06-02,Bronze,42
+2279,Prasert Intharak,Bangkok,2023-09-14,Bronze,53
+2280,Somsri Kaewkla,Buriram,2022-01-03,Silver,44
+2281,Duangjai Chantra,Surat Thani,2022-12-01,Bronze,46
+2282,Boonmee Phetcharat,Sakon Nakhon,2020-11-15,Silver,52
+2283,Chaiyot Panyawong,Nong Khai,2022-04-17,Gold,41
+2284,Anucha Prasertsak,Rayong,2023-02-19,Bronze,21
+2285,Yupin Saelim,Bangkok,2022-04-04,Bronze,58
+2286,Siriporn Wongsawat,Bangkok,2021-07-28,Silver,32
+2287,Somkiat Phetcharat,Sakon Nakhon,2020-06-19,Silver,57
+2288,Rungnapa Rattanakul,Chiang Rai,2020-08-04,Gold,36
+2289,Niran Wongsawat,Buriram,2020-01-10,Silver,60
+2290,Niran Kaewkla,Bangkok,2020-10-15,Gold,23
+2291,Wichai Chotirat,Surat Thani,2023-07-31,Bronze,28
+2293,Somkiat Boonmee,Krabi,2023-02-19,Bronze,39
+2294,Rungnapa Chaiyaporn,Bangkok,2021-08-19,Gold,18
+2295,Chaiyot Intharak,Hat Yai,2023-12-03,Silver,63
+2296,Kittisak Sinthop,Trang,2023-07-10,Bronze,23
+2297,Ploy Chotirat,Surat Thani,2023-05-15,Silver,24
+2298,Somsri Sinthop,Pattaya,2020-07-30,Silver,28
+2299,Duangjai Rattanakul,Lampang,2021-12-22,Silver,41
+2300,Somchai Chaiyaporn,Nonthaburi,2021-10-29,Silver,34
+2301,Suchart Phetcharat,Sakon Nakhon,2020-12-07,Gold,53
+2302,Wilai Chaiyaporn,Nakhon Ratchasima,2020-11-03,Platinum,29
+2303,Rungnapa Saelim,Rayong,2021-01-04,Silver,49
+2304,Orawan Intharak,Nonthaburi,2021-12-04,Platinum,28
+2305,Wilai Sinthop,Udon Thani,2023-12-09,Gold,43
+2306,Wilai Sukjai,Bangkok,2020-09-01,Gold,55
+2307,Somkiat Wattana,Krabi,2022-07-03,Bronze,49
+2308,Kittisak Boonmee,Krabi,2022-08-24,Bronze,44
+2309,Suchart Chaiyaporn,Surat Thani,2021-06-04,Bronze,38
+2310,Chomphunut Naruemon,Hat Yai,2020-01-11,Silver,33
+2311,Somkiat Thongdee,Lampang,2020-12-23,Bronze,54
+2312,Pranee Thongdee,Chiang Rai,2021-08-01,Bronze,24
+2313,Yupin Chaiyaporn,Chiang Rai,2022-05-21,Platinum,40
+2314,Ratana Rattanakul,Rayong,2022-09-30,Silver,36
+2315,Orawan Srisuk,Nonthaburi,2021-10-14,Silver,42
+2316,Siriporn Sukjai,Hat Yai,2023-01-24,Silver,46
+2317,Rungnapa Kaewkla,Phuket,2022-11-23,Silver,51
+2318,Ploy Prasertsak,Nakhon Si Thammarat,2020-04-24,Bronze,54
+2319,Yupin Kaewkla,Nakhon Si Thammarat,2021-04-28,Bronze,56
+2320,Malee Yodying,Lampang,2022-09-05,Gold,24
+2321,Somsri Panyawong,Rayong,2022-01-17,Platinum,31
+2323,Somchai Yodying,Udon Thani,2022-05-12,Bronze,23
+2324,Thawatchai Chotirat,Trang,2020-01-17,Silver,36
+2325,Orawan Chaiyaporn,Rayong,2021-05-22,Bronze,41
+2326,Nittaya Chotirat,Lampang,2020-12-09,Gold,36
+2327,Anucha Chaiyaporn,Udon Thani,2021-02-05,Silver,32
+2328,Boonmee Rattanakul,Ubon Ratchathani,2022-05-19,Gold,23
+2329,Chatchai Yodying,Trang,2021-08-15,Platinum,49
+2331,Thawatchai Sinthop,Nakhon Si Thammarat,2021-05-27,Gold,56
+2332,Sombat Boonmee,Phuket,2023-06-29,Gold,21
+2333,Somchai Sinthop,Surat Thani,2021-12-31,Bronze,57
+2334,Wilai Chotirat,Krabi,2023-12-07,Bronze,59
+2335,Chomphunut Sukjai,Nakhon Ratchasima,2023-03-05,Platinum,45
+2336,Nittaya Yodying,Khon Kaen,2020-01-06,Bronze,47
+2337,Ploy Rattanakul,Nakhon Si Thammarat,2022-11-12,Platinum,59
+2339,Anan Phetcharat,Nakhon Ratchasima,2021-09-01,Silver,51
+2341,Suchart Sukjai,Chiang Rai,2020-01-26,Silver,29
+2342,Somkiat Srisuk,Lampang,2022-01-30,Gold,59
+2343,Ratana Srisuk,Chiang Rai,2023-08-08,Bronze,60
+2345,Somchai Rattanakul,Buriram,2023-07-28,Gold,45
+2346,Yupin Boonmee,Sakon Nakhon,2023-11-03,Silver,46
+2347,Suchart Rattanakul,Chiang Rai,2023-05-27,Bronze,32
+2348,Wichai Phetcharat,Hat Yai,2020-01-14,Silver,49
+2349,Somchai Prasertsak,Khon Kaen,2020-07-01,Bronze,34
+2350,Suree Chotirat,Nong Khai,2022-11-21,Silver,18
+2352,Kanya Naruemon,Nong Khai,2023-12-22,Gold,45
+2353,Suree Thongdee,Surat Thani,2020-05-14,Gold,19
+2354,Orawan Chaiyaporn,Lampang,2021-10-29,Bronze,42
+2355,Siriporn Sukjai,Rayong,2023-04-08,Silver,63
+2356,Suree Boonmee,Rayong,2023-06-20,Silver,30
+2357,Duangjai Intharak,Hat Yai,2020-12-24,Gold,21
+2358,Pichit Phetcharat,Nakhon Si Thammarat,2022-01-11,Gold,35
+2359,Sombat Prasertsak,Khon Kaen,2023-03-18,Bronze,57
+2360,Orawan Chaiyaporn,Udon Thani,2021-07-26,Bronze,61
+2363,Pichit Chaiyaporn,Sakon Nakhon,2023-07-26,Bronze,61
+2364,Somchai Chaiyaporn,Buriram,2021-08-10,Bronze,45
+2365,Somchai Wattana,Nonthaburi,2021-04-19,Gold,20
+2366,Anan Sinthop,Ubon Ratchathani,2020-02-04,Bronze,37
+2367,Duangjai Kaewkla,Chiang Mai,2023-03-21,Bronze,25
+2368,Suree Wattana,Nong Khai,2020-09-25,Silver,27
+2369,Malee Phetcharat,Udon Thani,2020-06-19,Gold,48
+2371,Wilai Chaiyaporn,Hat Yai,2020-10-02,Platinum,32
+2372,Niran Chantra,Rayong,2023-07-05,Gold,19
+2373,Thawatchai Naruemon,Nakhon Ratchasima,2020-02-16,Silver,29
+2374,Nittaya Thongdee,Buriram,2022-07-30,Silver,47
+2375,Wichai Rattanakul,Nonthaburi,2021-01-01,Bronze,27
+2376,Siriporn Thongdee,Nong Khai,2021-11-11,Bronze,47
+2377,Somkiat Yodying,Lampang,2022-12-08,Bronze,56
+2378,Nittaya Sinthop,Sakon Nakhon,2020-07-05,Bronze,49
+2379,Chatchai Naruemon,Ubon Ratchathani,2021-01-24,Platinum,48
+2380,Prasert Chotirat,Buriram,2021-06-12,Gold,25
+2381,Niran Kaewkla,Udon Thani,2020-01-30,Silver,51
+2382,Prasert Chaiyaporn,Pattaya,2023-11-14,Gold,50
+2383,Wilai Wattana,Pattaya,2022-09-01,Bronze,34
+2384,Niran Wattana,Buriram,2021-05-23,Bronze,36
+2385,Suree Srisuk,Sakon Nakhon,2021-01-08,Platinum,36
+2386,Boonmee Sukjai,Trang,2021-04-11,Bronze,19
+2387,Wilai Kaewkla,Bangkok,2021-12-21,Bronze,20
+2388,Thawatchai Yodying,Bangkok,2020-10-04,Bronze,48
+2389,Kittisak Meesuk,Sakon Nakhon,2020-07-27,Gold,27
+2390,Chaiyot Sinthop,Sakon Nakhon,2023-10-03,Silver,46
+2392,Chomphunut Sinthop,Hat Yai,2021-04-27,Platinum,59
+2393,Wilai Meesuk,Nonthaburi,2023-08-24,Bronze,41
+2394,Rungnapa Naruemon,Nonthaburi,2021-03-23,Bronze,37
+2395,Duangjai Srisuk,Udon Thani,2023-07-05,Bronze,51
+2396,Niran Prasertsak,Rayong,2020-08-02,Silver,43
+2397,Prasert Yodying,Sakon Nakhon,2021-08-06,Silver,28
+2398,Malee Chotirat,Nakhon Ratchasima,2020-07-13,Silver,56
+2399,Orawan Chaiyaporn,Nakhon Si Thammarat,2020-12-12,Bronze,31
+2400,Duangjai Sukjai,Buriram,2022-03-05,Bronze,39
+2401,Rungnapa Chotirat,Nong Khai,2020-07-27,Bronze,33
+2402,Wichai Prasertsak,Rayong,2021-06-01,Gold,34
+2403,Yupin Intharak,Ubon Ratchathani,2023-01-28,Platinum,56
+2404,Chomphunut Phetcharat,Trang,2022-07-06,Bronze,38
+2405,Siriporn Intharak,Krabi,2022-09-08,Gold,37
+2407,Anan Intharak,Ubon Ratchathani,2021-07-29,Platinum,23
+2408,Ploy Phetcharat,Khon Kaen,2021-07-07,Bronze,47
+2409,Rungnapa Sinthop,Udon Thani,2021-10-08,Bronze,62
+2410,Suchart Meesuk,Phuket,2021-02-22,Bronze,22
+2411,Duangjai Wattana,Lampang,2022-03-28,Silver,44
+2413,Somsri Sinthop,Chiang Rai,2021-09-17,Bronze,45
+2414,Sombat Wongsawat,Nakhon Ratchasima,2023-10-04,Gold,27
+2415,Orawan Prasertsak,Hat Yai,2023-01-22,Silver,40
+2416,Thawatchai Srisuk,Nong Khai,2020-11-21,Bronze,45
+2417,Rungnapa Sinthop,Phuket,2023-08-02,Platinum,61
+2418,Sombat Intharak,Nakhon Si Thammarat,2023-04-21,Platinum,54
+2420,Anan Intharak,Krabi,2020-12-10,Silver,63
+2422,Rungnapa Chantra,Rayong,2020-05-29,Gold,41
+2423,Chatchai Boonmee,Krabi,2022-01-27,Gold,21
+2424,Kanya Sinthop,Nakhon Ratchasima,2021-09-29,Silver,52
+2425,Thawatchai Saelim,Pattaya,2023-07-27,Platinum,32
+2426,Kittisak Prasertsak,Lampang,2022-04-16,Bronze,44
+2428,Kittisak Saelim,Nakhon Ratchasima,2020-09-24,Silver,36
+2429,Niran Phetcharat,Surat Thani,2022-08-25,Gold,64
+2430,Anucha Chotirat,Nakhon Si Thammarat,2023-06-08,Silver,36
+2431,Suchart Wongsawat,Chiang Mai,2020-10-22,Silver,49
+2432,Suchart Wongsawat,Chiang Rai,2021-05-07,Bronze,33
+2433,Anan Thongdee,Chiang Mai,2023-06-27,Bronze,41
+2434,Rungnapa Kaewkla,Udon Thani,2021-03-19,Bronze,42
+2435,Siriporn Chotirat,Pattaya,2023-02-13,Silver,31
+2437,Thawatchai Chantra,Pattaya,2021-07-22,Bronze,59
+2438,Chaiyot Saelim,Nong Khai,2021-09-17,Gold,41
+2439,Yupin Sukjai,Chiang Mai,2023-03-17,Gold,51
+2440,Kanya Chaiyaporn,Hat Yai,2023-12-08,Gold,63
+2441,Orawan Phetcharat,Sakon Nakhon,2020-02-20,Silver,55
+2442,Siriporn Rattanakul,Bangkok,2020-06-10,Bronze,29
+2443,Siriporn Naruemon,Krabi,2023-11-24,Gold,55
+2445,Rungnapa Boonmee,Chiang Mai,2023-02-11,Platinum,57
+2446,Wichai Panyawong,Khon Kaen,2021-05-22,Silver,52
+2447,Wilai Srisuk,Krabi,2020-03-03,Bronze,20
+2448,Siriporn Prasertsak,Nakhon Ratchasima,2020-08-30,Bronze,61
+2449,Anucha Wattana,Udon Thani,2021-11-30,Bronze,32
+2450,Somchai Rattanakul,Nong Khai,2022-09-16,Silver,23
+2451,Somsri Wongsawat,Bangkok,2021-04-17,Bronze,50
+2452,Yupin Chotirat,Nakhon Ratchasima,2020-07-16,Bronze,54
+2453,Nittaya Chotirat,Surat Thani,2021-08-17,Gold,47
+2454,Thawatchai Wongsawat,Trang,2023-10-28,Platinum,60
+2455,Prasert Prasertsak,Nonthaburi,2020-12-09,Bronze,64
+2457,Ratana Rattanakul,Nakhon Ratchasima,2022-03-10,Bronze,45
+2458,Sombat Chotirat,Buriram,2023-09-17,Platinum,54
+2459,Boonmee Wattana,Bangkok,2021-08-08,Bronze,27
+2460,Wichai Prasertsak,Khon Kaen,2020-07-24,Silver,59
+2461,Boonmee Chaiyaporn,Nong Khai,2020-11-30,Bronze,64
+2462,Niran Wongsawat,Pattaya,2021-11-13,Silver,36
+2463,Malee Sinthop,Chiang Mai,2020-06-18,Platinum,36
+2464,Anan Srisuk,Surat Thani,2023-05-24,Bronze,46
+2465,Somsri Chaiyaporn,Nong Khai,2023-07-27,Silver,61
+2466,Ploy Chantra,Surat Thani,2023-09-01,Platinum,54
+2467,Yupin Naruemon,Udon Thani,2023-10-21,Platinum,49
+2468,Nittaya Boonmee,Ubon Ratchathani,2022-03-16,Gold,58
+2469,Yupin Wattana,Buriram,2023-02-26,Bronze,35
+2470,Somkiat Sinthop,Surat Thani,2022-08-15,Silver,56
+2471,Orawan Rattanakul,Pattaya,2023-12-23,Bronze,54
+2472,Pichit Boonmee,Nong Khai,2022-01-05,Gold,18
+2473,Prasert Panyawong,Nonthaburi,2022-09-24,Bronze,20
+2474,Thawatchai Meesuk,Lampang,2021-07-16,Bronze,53
+2475,Somkiat Boonmee,Rayong,2021-04-02,Bronze,25
+2476,Orawan Saelim,Nakhon Ratchasima,2022-07-13,Silver,36
+2477,Chaiyot Thongdee,Sakon Nakhon,2020-03-12,Gold,52
+2478,Sombat Thongdee,Udon Thani,2020-08-01,Platinum,26
+2479,Siriporn Meesuk,Trang,2021-10-07,Platinum,43
+2481,Suree Meesuk,Phuket,2021-10-24,Silver,64
+2482,Malee Chaiyaporn,Chiang Rai,2022-05-28,Bronze,20
+2483,Prasert Chantra,Chiang Mai,2020-04-29,Gold,39
+2484,Somsri Intharak,Nonthaburi,2021-02-05,Silver,38
+2485,Kittisak Srisuk,Udon Thani,2021-03-09,Bronze,28
+2486,Boonmee Chaiyaporn,Nakhon Ratchasima,2022-04-15,Bronze,46
+2488,Prasert Saelim,Khon Kaen,2021-12-02,Bronze,26
+2489,Pichit Phetcharat,Sakon Nakhon,2022-10-02,Bronze,28
+2490,Somsri Rattanakul,Ubon Ratchathani,2021-07-21,Gold,25
+2492,Wichai Panyawong,Khon Kaen,2020-09-05,Silver,37
+2493,Chatchai Srisuk,Rayong,2021-07-26,Bronze,41
+2494,Suchart Kaewkla,Chiang Mai,2023-07-11,Gold,21
+2495,Thawatchai Chotirat,Lampang,2022-11-07,Bronze,36
+2496,Sombat Rattanakul,Nakhon Ratchasima,2022-07-04,Bronze,28
+2497,Nittaya Panyawong,Nakhon Si Thammarat,2020-09-02,Platinum,56
+2498,Siriporn Prasertsak,Krabi,2021-11-16,Silver,46
+2499,Chaiyot Rattanakul,Nakhon Ratchasima,2022-07-24,Gold,60
+2500,Siriporn Phetcharat,Nakhon Si Thammarat,2023-12-17,Bronze,47
+2501,Chaiyot Thongdee,Buriram,2022-11-24,Silver,54
+2502,Sombat Meesuk,Pattaya,2021-11-19,Silver,21
+2504,Rungnapa Sukjai,Nonthaburi,2021-09-11,Silver,23
+2505,Orawan Srisuk,Nonthaburi,2023-10-18,Bronze,57
+2506,Sombat Wongsawat,Surat Thani,2021-04-15,Platinum,23
+2507,Rungnapa Chaiyaporn,Khon Kaen,2020-04-18,Gold,58
+2508,Malee Meesuk,Lampang,2022-11-30,Gold,34
+2509,Anan Wattana,Ubon Ratchathani,2022-11-19,Gold,28
+2510,Yupin Chantra,Surat Thani,2021-12-03,Platinum,42
+2511,Kittisak Sukjai,Pattaya,2023-06-06,Bronze,36
+2512,Chatchai Naruemon,Phuket,2022-07-05,Platinum,45
+2513,Pranee Sinthop,Khon Kaen,2020-07-12,Bronze,59
+2514,Boonmee Srisuk,Chiang Mai,2020-03-01,Bronze,56
+2515,Somkiat Boonmee,Phuket,2021-03-15,Bronze,63
+2516,Sombat Panyawong,Nakhon Si Thammarat,2020-04-02,Silver,38
+2517,Niran Meesuk,Hat Yai,2021-01-20,Silver,18
+2518,Nittaya Rattanakul,Nakhon Si Thammarat,2023-01-09,Silver,61
+2519,Somkiat Chantra,Nakhon Si Thammarat,2020-01-14,Gold,19
+2520,Wichai Panyawong,Lampang,2022-01-22,Gold,57
+2521,Kanya Chaiyaporn,Pattaya,2021-01-05,Platinum,51
+2522,Malee Naruemon,Phuket,2022-08-15,Bronze,46
+2523,Ploy Sukjai,Phuket,2023-01-08,Silver,44
+2524,Sombat Sukjai,Phuket,2023-09-28,Silver,52
+2525,Prasert Yodying,Phuket,2023-12-23,Silver,37
+2526,Ratana Meesuk,Nakhon Ratchasima,2020-02-12,Silver,33
+2527,Wichai Srisuk,Khon Kaen,2020-08-12,Silver,21
+2528,Prasert Chotirat,Buriram,2021-04-21,Bronze,38
+2529,Boonmee Kaewkla,Nakhon Ratchasima,2022-06-20,Bronze,50
+2530,Niran Thongdee,Udon Thani,2021-05-08,Bronze,23
+2531,Prasert Phetcharat,Phuket,2023-07-22,Gold,60
+2533,Pranee Panyawong,Udon Thani,2020-07-23,Gold,23
+2534,Sombat Phetcharat,Hat Yai,2022-07-14,Gold,61
+2535,Pranee Sukjai,Udon Thani,2021-12-02,Bronze,44
+2536,Anucha Chaiyaporn,Ubon Ratchathani,2020-08-22,Gold,19
+2537,Somkiat Wongsawat,Nonthaburi,2023-03-23,Silver,40
+2538,Ploy Phetcharat,Nakhon Si Thammarat,2020-08-14,Gold,37
+2539,Boonmee Kaewkla,Nonthaburi,2022-06-22,Silver,58
+2540,Pranee Prasertsak,Phuket,2022-06-22,Platinum,26
+2541,Chatchai Wongsawat,Nonthaburi,2020-04-22,Silver,24
+2542,Siriporn Yodying,Surat Thani,2020-03-18,Platinum,32
+2543,Prasert Meesuk,Pattaya,2023-04-15,Silver,32
+2544,Orawan Meesuk,Nakhon Si Thammarat,2021-12-29,Silver,58
+2545,Pranee Sinthop,Nonthaburi,2022-10-15,Bronze,64
+2546,Duangjai Yodying,Pattaya,2021-09-21,Platinum,55
+2547,Kittisak Thongdee,Ubon Ratchathani,2020-08-07,Platinum,44
+2548,Somsri Kaewkla,Surat Thani,2023-07-14,Platinum,21
+2549,Wichai Srisuk,Chiang Mai,2023-11-05,Gold,38
+2550,Sombat Saelim,Krabi,2021-06-28,Bronze,46
+2551,Niran Saelim,Pattaya,2023-01-25,Bronze,26
+2552,Wichai Naruemon,Nonthaburi,2021-11-08,Bronze,26
+2553,Somchai Saelim,Surat Thani,2022-01-06,Silver,43
+2554,Duangjai Thongdee,Chiang Rai,2020-11-24,Bronze,24
+2555,Siriporn Yodying,Chiang Mai,2022-09-20,Platinum,51
+2556,Somsri Yodying,Sakon Nakhon,2023-05-27,Platinum,26
+2558,Suchart Prasertsak,Chiang Rai,2021-04-13,Bronze,25
+2559,Thawatchai Thongdee,Pattaya,2020-05-29,Silver,37
+2560,Wichai Thongdee,Nakhon Si Thammarat,2022-04-16,Silver,54
+2561,Anucha Meesuk,Lampang,2020-11-08,Bronze,57
+2562,Pichit Thongdee,Chiang Rai,2021-12-19,Bronze,47
+2563,Suchart Wattana,Chiang Rai,2023-02-05,Gold,58
+2564,Anan Boonmee,Nonthaburi,2021-08-01,Bronze,47
+2565,Kittisak Wattana,Khon Kaen,2020-03-16,Bronze,18
+2566,Suree Phetcharat,Bangkok,2021-02-13,Gold,26
+2567,Chatchai Prasertsak,Krabi,2021-02-09,Bronze,48
+2568,Malee Wongsawat,Surat Thani,2023-05-25,Silver,26
+2570,Wichai Wattana,Nong Khai,2022-07-21,Silver,29
+2571,Chomphunut Wongsawat,Ubon Ratchathani,2021-10-22,Bronze,58
+2572,Thawatchai Kaewkla,Bangkok,2020-07-30,Bronze,55
+2573,Suchart Srisuk,Krabi,2022-03-19,Bronze,61
+2574,Anan Saelim,Nonthaburi,2021-09-16,Bronze,43
+2575,Ratana Chaiyaporn,Trang,2021-03-06,Bronze,31
+2576,Anucha Chantra,Krabi,2022-12-07,Gold,54
+2577,Niran Kaewkla,Surat Thani,2023-06-06,Silver,32
+2579,Boonmee Phetcharat,Nonthaburi,2023-04-24,Bronze,36
+2580,Anan Srisuk,Ubon Ratchathani,2020-03-20,Silver,43
+2581,Ratana Phetcharat,Rayong,2023-04-28,Silver,33
+2582,Wichai Prasertsak,Ubon Ratchathani,2021-11-06,Gold,20
+2583,Kanya Thongdee,Nakhon Si Thammarat,2020-05-18,Bronze,45
+2584,Thawatchai Chantra,Lampang,2021-11-03,Bronze,26
+2585,Somsri Thongdee,Trang,2020-09-24,Bronze,21
+2586,Pichit Chantra,Nakhon Si Thammarat,2020-11-08,Gold,32
+2587,Thawatchai Wattana,Bangkok,2020-12-19,Silver,18
+2588,Yupin Srisuk,Ubon Ratchathani,2022-02-02,Bronze,31
+2589,Siriporn Saelim,Surat Thani,2023-11-16,Platinum,52
+2590,Orawan Naruemon,Ubon Ratchathani,2022-03-01,Bronze,25
+2591,Anucha Boonmee,Nakhon Si Thammarat,2023-07-07,Gold,23
+2592,Pranee Chantra,Trang,2021-12-19,Silver,53
+2594,Pichit Meesuk,Nong Khai,2021-11-22,Silver,31
+2595,Boonmee Panyawong,Krabi,2021-07-04,Bronze,55
+2596,Chatchai Sinthop,Udon Thani,2023-02-11,Silver,19
+2597,Thawatchai Chaiyaporn,Pattaya,2020-02-13,Bronze,52
+2598,Duangjai Rattanakul,Udon Thani,2020-01-25,Bronze,62
+2599,Suree Phetcharat,Nakhon Ratchasima,2021-04-27,Bronze,19
+2600,Sombat Saelim,Buriram,2020-09-16,Bronze,41
+2601,Somchai Saelim,Buriram,2020-08-15,Bronze,44
+2602,Rungnapa Intharak,Chiang Rai,2020-01-25,Platinum,46
+2603,Wichai Srisuk,Rayong,2020-12-19,Silver,33
+2604,Kanya Boonmee,Buriram,2021-10-01,Bronze,21
+2605,Kanya Wattana,Lampang,2022-10-11,Bronze,63
+2606,Malee Thongdee,Nakhon Si Thammarat,2021-07-01,Bronze,64
+2607,Pranee Kaewkla,Surat Thani,2020-04-15,Bronze,62
+2608,Prasert Intharak,Nakhon Ratchasima,2021-05-19,Bronze,19
+2609,Boonmee Srisuk,Krabi,2022-04-23,Bronze,57
+2610,Somchai Rattanakul,Sakon Nakhon,2020-04-30,Gold,43
+2611,Orawan Wongsawat,Nong Khai,2020-12-19,Gold,52
+2613,Prasert Srisuk,Krabi,2021-02-22,Gold,39
+2614,Boonmee Wattana,Rayong,2022-05-05,Gold,37
+2615,Somkiat Chotirat,Khon Kaen,2021-11-17,Bronze,30
+2617,Sombat Saelim,Nakhon Ratchasima,2021-07-18,Silver,41
+2619,Kanya Naruemon,Rayong,2021-01-04,Gold,54
+2620,Pranee Chantra,Krabi,2023-11-22,Bronze,35
+2621,Yupin Rattanakul,Nakhon Si Thammarat,2021-04-30,Gold,59
+2622,Pichit Thongdee,Hat Yai,2023-06-14,Gold,55
+2624,Somsri Prasertsak,Udon Thani,2021-09-02,Bronze,58
+2625,Pranee Naruemon,Lampang,2020-01-28,Gold,48
+2626,Nittaya Chotirat,Trang,2022-05-04,Gold,31
+2627,Anucha Prasertsak,Nakhon Ratchasima,2023-12-14,Silver,20
+2628,Pranee Rattanakul,Udon Thani,2020-11-20,Bronze,42
+2629,Pranee Sinthop,Sakon Nakhon,2022-02-25,Gold,51
+2630,Kittisak Sukjai,Ubon Ratchathani,2023-11-10,Silver,21
+2631,Ploy Chotirat,Udon Thani,2021-07-16,Gold,33
+2632,Kanya Meesuk,Lampang,2023-04-08,Gold,58
+2633,Wichai Chotirat,Sakon Nakhon,2021-12-26,Platinum,19
+2634,Sombat Sinthop,Buriram,2022-10-27,Bronze,55
+2635,Malee Srisuk,Chiang Mai,2021-03-06,Gold,39
+2636,Somkiat Sinthop,Udon Thani,2021-03-15,Silver,64
+2637,Pichit Yodying,Khon Kaen,2021-03-07,Silver,18
+2638,Wilai Wattana,Udon Thani,2021-03-09,Bronze,31
+2639,Anucha Chaiyaporn,Sakon Nakhon,2020-11-03,Bronze,35
+2640,Chaiyot Chaiyaporn,Chiang Mai,2020-12-04,Bronze,52
+2641,Chatchai Chantra,Khon Kaen,2020-07-13,Bronze,21
+2642,Niran Sinthop,Hat Yai,2021-01-05,Gold,62
+2643,Kanya Panyawong,Surat Thani,2021-09-20,Bronze,20
+2644,Pichit Yodying,Trang,2021-07-21,Bronze,51
+2645,Boonmee Chotirat,Trang,2021-04-07,Bronze,59
+2646,Rungnapa Panyawong,Buriram,2023-01-28,Bronze,43
+2647,Boonmee Sinthop,Hat Yai,2022-10-19,Bronze,35
+2648,Yupin Intharak,Lampang,2023-06-09,Bronze,20
+2649,Somsri Panyawong,Sakon Nakhon,2023-07-19,Silver,42
+2651,Anucha Sukjai,Ubon Ratchathani,2023-09-08,Bronze,26
+2652,Chomphunut Chantra,Rayong,2021-10-20,Silver,57
+2653,Kanya Yodying,Chiang Rai,2021-12-19,Bronze,64
+2654,Chomphunut Srisuk,Udon Thani,2022-06-20,Silver,22
+2655,Siriporn Rattanakul,Hat Yai,2023-05-13,Platinum,33
+2656,Anucha Thongdee,Chiang Mai,2020-10-20,Silver,46
+2657,Anan Panyawong,Bangkok,2023-09-04,Bronze,22
+2658,Ratana Wongsawat,Sakon Nakhon,2022-06-14,Silver,62
+2659,Anucha Srisuk,Nong Khai,2022-08-02,Gold,42
+2660,Kanya Sukjai,Chiang Rai,2020-05-25,Silver,51
+2661,Ratana Sinthop,Surat Thani,2022-07-08,Bronze,62
+2662,Chatchai Naruemon,Phuket,2022-04-12,Silver,41
+2663,Somkiat Chaiyaporn,Nonthaburi,2023-12-05,Bronze,26
+2664,Rungnapa Chaiyaporn,Udon Thani,2022-01-09,Gold,20
+2665,Somsri Wattana,Surat Thani,2022-06-15,Platinum,32
+2666,Prasert Wattana,Buriram,2021-12-30,Silver,44
+2667,Prasert Intharak,Krabi,2022-01-23,Bronze,33
+2668,Rungnapa Chaiyaporn,Krabi,2023-01-14,Gold,63
+2669,Wilai Rattanakul,Phuket,2020-05-16,Silver,33
+2671,Prasert Rattanakul,Pattaya,2023-11-16,Bronze,50
+2672,Anucha Srisuk,Nong Khai,2023-01-04,Bronze,64
+2673,Ratana Meesuk,Udon Thani,2021-04-29,Silver,56
+2674,Somsri Kaewkla,Chiang Mai,2020-12-21,Bronze,46
+2675,Pranee Kaewkla,Rayong,2023-01-10,Gold,42
+2676,Siriporn Thongdee,Krabi,2020-08-18,Bronze,31
+2677,Pranee Chaiyaporn,Surat Thani,2020-12-17,Silver,24
+2678,Wilai Saelim,Buriram,2020-03-25,Bronze,34
+2679,Kittisak Prasertsak,Pattaya,2021-06-07,Bronze,35
+2680,Anan Naruemon,Krabi,2020-09-04,Silver,22
+2681,Thawatchai Intharak,Nakhon Ratchasima,2023-03-22,Silver,41
+2682,Orawan Sukjai,Ubon Ratchathani,2021-12-20,Platinum,59
+2683,Sombat Rattanakul,Khon Kaen,2021-12-29,Gold,46
+2684,Anucha Sukjai,Lampang,2020-06-22,Silver,52
+2685,Kittisak Kaewkla,Hat Yai,2020-05-23,Bronze,20
+2686,Orawan Yodying,Hat Yai,2022-12-29,Bronze,32
+2687,Thawatchai Kaewkla,Nakhon Ratchasima,2023-11-13,Gold,44
+2688,Prasert Meesuk,Chiang Rai,2022-06-13,Silver,63
+2689,Suree Boonmee,Bangkok,2023-10-13,Silver,41
+2690,Suree Intharak,Chiang Rai,2022-03-26,Bronze,57
+2691,Duangjai Naruemon,Pattaya,2023-03-02,Bronze,37
+2692,Wilai Chotirat,Chiang Rai,2023-07-23,Gold,62
+2693,Kanya Sinthop,Lampang,2021-12-18,Silver,34
+2695,Suchart Intharak,Udon Thani,2020-03-28,Platinum,64
+2696,Pichit Chantra,Nong Khai,2021-01-26,Bronze,55
+2698,Sombat Intharak,Trang,2020-03-10,Platinum,45
+2699,Duangjai Wattana,Trang,2020-03-02,Gold,57
+2700,Nittaya Phetcharat,Hat Yai,2023-05-12,Gold,40
+2701,Boonmee Kaewkla,Nonthaburi,2023-07-05,Silver,42
+2702,Somchai Meesuk,Khon Kaen,2023-04-15,Bronze,63
+2704,Niran Meesuk,Pattaya,2022-10-11,Silver,36
+2705,Suchart Saelim,Krabi,2020-09-27,Silver,58
+2706,Ploy Sinthop,Ubon Ratchathani,2023-10-04,Bronze,29
+2707,Thawatchai Sinthop,Buriram,2020-10-02,Bronze,62
+2708,Somchai Chantra,Nonthaburi,2020-04-05,Bronze,44
+2709,Malee Meesuk,Surat Thani,2022-11-27,Bronze,58
+2710,Niran Intharak,Trang,2023-11-19,Platinum,34
+2711,Niran Phetcharat,Phuket,2020-03-11,Silver,18
+2712,Prasert Kaewkla,Khon Kaen,2022-01-25,Bronze,35
+2713,Kittisak Wongsawat,Nonthaburi,2021-06-23,Bronze,48
+2714,Duangjai Chaiyaporn,Krabi,2021-12-03,Silver,18
+2715,Chatchai Srisuk,Bangkok,2022-03-17,Platinum,21
+2716,Malee Intharak,Phuket,2021-09-10,Bronze,40
+2718,Anan Wattana,Sakon Nakhon,2022-07-07,Bronze,60
+2719,Yupin Chantra,Hat Yai,2021-11-09,Bronze,42
+2721,Sombat Chaiyaporn,Rayong,2022-05-18,Gold,62
+2722,Anucha Sinthop,Sakon Nakhon,2021-10-10,Gold,23
+2723,Boonmee Naruemon,Nonthaburi,2023-10-20,Silver,60
+2724,Siriporn Rattanakul,Chiang Mai,2020-08-25,Bronze,28
+2725,Anucha Meesuk,Udon Thani,2022-07-18,Silver,61
+2726,Chomphunut Sukjai,Chiang Rai,2022-01-23,Bronze,22
+2727,Ratana Panyawong,Ubon Ratchathani,2022-07-19,Silver,20
+2728,Chomphunut Chantra,Pattaya,2023-10-27,Gold,47
+2729,Wichai Wongsawat,Ubon Ratchathani,2020-10-15,Bronze,54
+2730,Wilai Wattana,Khon Kaen,2023-10-06,Platinum,35
+2731,Yupin Prasertsak,Chiang Rai,2021-09-13,Bronze,19
+2733,Boonmee Saelim,Phuket,2023-10-19,Silver,33
+2734,Pranee Phetcharat,Nonthaburi,2021-05-29,Bronze,59
+2735,Prasert Sukjai,Surat Thani,2020-07-18,Silver,32
+2736,Ratana Rattanakul,Nakhon Si Thammarat,2020-06-16,Silver,60
+2737,Somchai Yodying,Ubon Ratchathani,2020-06-24,Silver,54
+2740,Chatchai Intharak,Nakhon Ratchasima,2021-04-22,Gold,22
+2741,Thawatchai Rattanakul,Nong Khai,2020-11-11,Silver,64
+2742,Nittaya Sinthop,Chiang Rai,2023-07-19,Silver,24
+2743,Thawatchai Sukjai,Nong Khai,2022-02-06,Bronze,50
+2745,Ratana Prasertsak,Hat Yai,2020-10-23,Gold,22
+2746,Yupin Wattana,Ubon Ratchathani,2022-02-07,Bronze,37
+2747,Wilai Rattanakul,Chiang Mai,2021-06-05,Bronze,19
+2748,Chaiyot Naruemon,Udon Thani,2021-10-12,Platinum,47
+2749,Pichit Naruemon,Nakhon Ratchasima,2022-01-22,Gold,27
+2750,Duangjai Chantra,Udon Thani,2022-06-20,Platinum,49
+2751,Duangjai Chantra,Udon Thani,2022-07-03,Bronze,51
+2752,Chaiyot Saelim,Udon Thani,2021-11-22,Bronze,52
+2753,Ploy Wattana,Nong Khai,2020-02-17,Bronze,45
+2754,Chaiyot Panyawong,Pattaya,2021-01-14,Platinum,38
+2755,Somchai Phetcharat,Buriram,2021-12-01,Silver,32
+2756,Chaiyot Naruemon,Chiang Rai,2021-10-27,Platinum,41
+2757,Duangjai Thongdee,Udon Thani,2023-07-09,Platinum,43
+2758,Ploy Kaewkla,Nakhon Ratchasima,2023-11-07,Gold,61
+2759,Rungnapa Sukjai,Ubon Ratchathani,2021-05-30,Platinum,29
+2760,Ratana Chotirat,Surat Thani,2021-08-08,Gold,27
+2761,Chaiyot Chotirat,Surat Thani,2020-06-02,Gold,41
+2762,Kanya Boonmee,Nakhon Si Thammarat,2021-07-03,Silver,21
+2763,Boonmee Panyawong,Trang,2022-03-27,Gold,37
+2764,Niran Wattana,Krabi,2021-12-20,Bronze,45
+2765,Boonmee Meesuk,Nakhon Si Thammarat,2021-05-08,Platinum,41
+2766,Niran Wongsawat,Nakhon Ratchasima,2020-03-06,Gold,59
+2767,Ratana Srisuk,Bangkok,2021-07-31,Silver,18
+2768,Somchai Chaiyaporn,Nonthaburi,2022-05-23,Silver,31
+2769,Prasert Chotirat,Hat Yai,2022-10-02,Platinum,39
+2770,Kittisak Phetcharat,Chiang Mai,2021-08-08,Gold,24
+2771,Duangjai Intharak,Nong Khai,2023-11-08,Platinum,64
+2772,Chatchai Kaewkla,Nakhon Si Thammarat,2020-07-21,Platinum,39
+2773,Ploy Wattana,Chiang Rai,2021-02-17,Bronze,40
+2774,Ratana Saelim,Sakon Nakhon,2022-08-03,Gold,35
+2775,Boonmee Saelim,Nakhon Ratchasima,2020-02-14,Silver,23
+2776,Suree Yodying,Hat Yai,2023-04-15,Bronze,21
+2777,Chaiyot Naruemon,Rayong,2022-04-01,Gold,20
+2778,Siriporn Chaiyaporn,Chiang Rai,2022-12-10,Silver,27
+2780,Wilai Chantra,Lampang,2020-09-24,Silver,47
+2781,Sombat Srisuk,Pattaya,2020-08-02,Bronze,29
+2782,Chomphunut Boonmee,Bangkok,2021-03-02,Silver,18
+2783,Anucha Meesuk,Chiang Rai,2020-01-30,Platinum,19
+2784,Pranee Yodying,Phuket,2023-07-06,Bronze,34
+2785,Siriporn Saelim,Rayong,2022-05-23,Bronze,26
+2787,Chaiyot Intharak,Surat Thani,2023-01-10,Bronze,41
+2790,Orawan Chotirat,Nakhon Si Thammarat,2021-05-19,Platinum,42
+2791,Wichai Wongsawat,Trang,2023-09-06,Platinum,18
+2792,Ratana Phetcharat,Sakon Nakhon,2022-06-11,Gold,61
+2793,Chaiyot Naruemon,Nakhon Si Thammarat,2023-04-29,Gold,62
+2794,Chatchai Wattana,Nakhon Ratchasima,2022-08-12,Bronze,22
+2795,Kittisak Chotirat,Sakon Nakhon,2023-11-12,Bronze,19
+2796,Niran Saelim,Chiang Rai,2022-09-29,Silver,43
+2797,Suree Boonmee,Phuket,2022-08-06,Bronze,53
+2798,Malee Chantra,Buriram,2023-09-10,Silver,27
+2799,Niran Chantra,Surat Thani,2023-01-28,Gold,59
+2800,Anan Kaewkla,Nakhon Si Thammarat,2020-03-15,Bronze,22
+2801,Anucha Thongdee,Nonthaburi,2022-08-22,Platinum,24
+2802,Pranee Kaewkla,Surat Thani,2022-07-13,Bronze,64
+2803,Pichit Panyawong,Udon Thani,2022-06-07,Bronze,60
+2804,Boonmee Saelim,Bangkok,2020-04-14,Bronze,26
+2805,Kittisak Yodying,Phuket,2020-12-04,Bronze,22
+2806,Somkiat Thongdee,Trang,2023-04-30,Silver,41
+2809,Anucha Kaewkla,Nonthaburi,2022-04-19,Gold,35
+2810,Boonmee Saelim,Chiang Rai,2022-01-04,Silver,21
+2811,Suchart Saelim,Sakon Nakhon,2022-06-05,Gold,29
+2812,Kittisak Wongsawat,Nakhon Si Thammarat,2021-04-25,Gold,59
+2814,Ratana Thongdee,Bangkok,2020-10-10,Platinum,24
+2815,Somsri Chotirat,Krabi,2021-11-14,Bronze,36
+2816,Wilai Rattanakul,Chiang Rai,2023-03-10,Gold,21
+2817,Siriporn Chotirat,Khon Kaen,2021-08-11,Bronze,44
+2818,Somkiat Chaiyaporn,Lampang,2021-02-13,Bronze,59
+2819,Pichit Yodying,Nong Khai,2023-04-02,Bronze,23
+2820,Somchai Srisuk,Chiang Rai,2020-04-03,Silver,49
+2821,Duangjai Intharak,Nonthaburi,2022-06-16,Bronze,51
+2822,Somchai Kaewkla,Surat Thani,2023-11-03,Bronze,44
+2823,Chaiyot Rattanakul,Nong Khai,2020-05-20,Bronze,19
+2824,Thawatchai Srisuk,Khon Kaen,2023-09-23,Bronze,36
+2825,Chomphunut Srisuk,Buriram,2021-07-07,Bronze,45
+2826,Suchart Thongdee,Nakhon Ratchasima,2023-06-13,Gold,51
+2827,Nittaya Intharak,Lampang,2023-07-16,Silver,57
+2828,Thawatchai Prasertsak,Chiang Rai,2020-12-25,Silver,35
+2829,Yupin Intharak,Hat Yai,2023-11-09,Silver,60
+2830,Anucha Sukjai,Nakhon Ratchasima,2020-03-10,Silver,53
+2833,Thawatchai Wongsawat,Buriram,2021-01-13,Bronze,60
+2834,Ratana Wattana,Ubon Ratchathani,2021-10-21,Gold,40
+2835,Pranee Sukjai,Udon Thani,2021-04-25,Bronze,49
+2836,Malee Saelim,Udon Thani,2022-03-03,Bronze,43
+2837,Chatchai Saelim,Hat Yai,2020-02-06,Gold,35
+2838,Pranee Srisuk,Krabi,2022-11-28,Silver,41
+2840,Pranee Boonmee,Trang,2020-11-12,Silver,22
+2841,Malee Saelim,Surat Thani,2023-10-29,Silver,25
+2842,Nittaya Naruemon,Khon Kaen,2020-04-12,Gold,57
+2843,Wilai Yodying,Rayong,2021-07-27,Bronze,39
+2845,Rungnapa Chaiyaporn,Buriram,2021-01-17,Silver,24
+2846,Somkiat Srisuk,Nong Khai,2021-11-14,Gold,36
+2847,Chomphunut Chotirat,Ubon Ratchathani,2021-08-04,Platinum,40
+2848,Niran Sukjai,Chiang Rai,2023-09-17,Silver,43
+2849,Pichit Meesuk,Pattaya,2020-05-24,Bronze,38
+2850,Siriporn Prasertsak,Ubon Ratchathani,2022-08-09,Bronze,51
+2851,Malee Chaiyaporn,Sakon Nakhon,2023-11-19,Bronze,26
+2852,Prasert Rattanakul,Buriram,2021-07-17,Bronze,19
+2853,Yupin Chotirat,Lampang,2020-11-17,Bronze,54
+2854,Anan Chantra,Chiang Mai,2022-12-23,Silver,43
+2855,Suchart Naruemon,Lampang,2022-12-01,Gold,35
+2856,Wilai Sinthop,Chiang Rai,2020-03-27,Bronze,18
+2857,Somchai Chaiyaporn,Trang,2021-02-07,Bronze,31
+2858,Kanya Sinthop,Krabi,2022-04-06,Gold,25
+2860,Thawatchai Chaiyaporn,Surat Thani,2022-03-20,Silver,48
+2861,Sombat Chaiyaporn,Chiang Rai,2021-04-14,Silver,21
+2862,Wilai Meesuk,Trang,2020-12-09,Bronze,22
+2863,Kanya Meesuk,Trang,2023-04-27,Bronze,49
+2865,Somsri Thongdee,Sakon Nakhon,2021-11-17,Silver,18
+2866,Orawan Chotirat,Nong Khai,2023-05-09,Bronze,30
+2868,Yupin Thongdee,Nonthaburi,2022-04-15,Silver,47
+2869,Niran Srisuk,Bangkok,2021-12-18,Bronze,26
+2870,Kittisak Naruemon,Khon Kaen,2020-07-02,Silver,35
+2871,Duangjai Yodying,Khon Kaen,2021-10-22,Silver,45
+2872,Wilai Prasertsak,Sakon Nakhon,2020-06-19,Gold,28
+2873,Kittisak Phetcharat,Nakhon Si Thammarat,2023-04-06,Bronze,34
+2875,Anan Meesuk,Hat Yai,2022-12-16,Gold,47
+2876,Chomphunut Sinthop,Lampang,2022-05-28,Bronze,37
+2877,Chomphunut Chotirat,Buriram,2022-02-11,Silver,40
+2878,Kanya Yodying,Bangkok,2020-12-06,Gold,39
+2879,Duangjai Sinthop,Trang,2023-11-06,Platinum,58
+2880,Kittisak Phetcharat,Trang,2021-06-17,Gold,45
+2881,Somchai Meesuk,Nakhon Si Thammarat,2020-04-07,Silver,40
+2882,Anan Thongdee,Nonthaburi,2020-08-03,Silver,20
+2883,Malee Chantra,Hat Yai,2023-11-01,Gold,32
+2884,Chaiyot Thongdee,Rayong,2022-09-24,Silver,28
+2885,Somchai Kaewkla,Buriram,2022-01-29,Platinum,26
+2886,Chaiyot Intharak,Hat Yai,2023-09-05,Bronze,60
+2887,Siriporn Rattanakul,Krabi,2023-10-14,Gold,57
+2888,Niran Intharak,Surat Thani,2022-07-10,Bronze,59
+2889,Yupin Sinthop,Phuket,2022-02-10,Bronze,60
+2890,Niran Sinthop,Krabi,2020-03-27,Gold,42
+2891,Somkiat Boonmee,Nakhon Si Thammarat,2021-07-06,Platinum,37
+2892,Pranee Yodying,Chiang Mai,2021-07-14,Gold,46
+2893,Boonmee Chantra,Phuket,2022-07-13,Silver,61
+2894,Ploy Meesuk,Sakon Nakhon,2020-02-24,Bronze,37
+2895,Chaiyot Wongsawat,Nonthaburi,2022-01-31,Bronze,23
+2896,Sombat Kaewkla,Surat Thani,2021-05-25,Silver,63
+2897,Siriporn Meesuk,Nong Khai,2023-01-19,Platinum,24
+2898,Ratana Chaiyaporn,Trang,2022-02-25,Gold,43
+2899,Prasert Srisuk,Chiang Rai,2023-01-08,Bronze,25
+2900,Niran Sukjai,Nakhon Ratchasima,2022-03-17,Silver,39
+2901,Kanya Sukjai,Surat Thani,2020-08-11,Gold,39
+2903,Anan Wongsawat,Bangkok,2023-05-09,Platinum,60
+2904,Prasert Intharak,Krabi,2022-04-15,Bronze,56
+2905,Boonmee Sukjai,Buriram,2022-11-21,Silver,64
+2906,Ploy Naruemon,Bangkok,2022-08-29,Gold,46
+2908,Sombat Meesuk,Udon Thani,2022-11-05,Bronze,52
+2909,Malee Chantra,Surat Thani,2022-04-17,Bronze,32
+2910,Siriporn Wongsawat,Phuket,2023-09-23,Bronze,27
+2911,Suree Sinthop,Khon Kaen,2023-01-12,Silver,57
+2912,Chaiyot Chotirat,Nakhon Ratchasima,2023-06-24,Silver,19
+2913,Suchart Kaewkla,Trang,2023-09-30,Bronze,43
+2914,Nittaya Saelim,Chiang Rai,2023-01-17,Bronze,27
+2915,Suchart Meesuk,Trang,2020-12-19,Bronze,20
+2916,Yupin Naruemon,Lampang,2023-10-27,Bronze,20
+2917,Chomphunut Sukjai,Krabi,2022-04-16,Silver,49
+2919,Pichit Prasertsak,Surat Thani,2022-10-21,Bronze,59
+2920,Wilai Naruemon,Surat Thani,2022-11-02,Silver,25
+2921,Thawatchai Chantra,Chiang Rai,2020-11-08,Silver,24
+2922,Ploy Meesuk,Nakhon Si Thammarat,2023-08-22,Bronze,39
+2923,Chaiyot Wattana,Krabi,2021-08-29,Bronze,25
+2924,Anucha Wongsawat,Nakhon Ratchasima,2021-07-29,Silver,61
+2925,Wichai Rattanakul,Nong Khai,2022-12-06,Gold,54
+2926,Chomphunut Saelim,Hat Yai,2023-09-27,Bronze,34
+2927,Anan Intharak,Nong Khai,2020-05-31,Gold,32
+2928,Yupin Prasertsak,Ubon Ratchathani,2021-07-13,Gold,21
+2929,Suree Sinthop,Trang,2020-10-03,Bronze,64
+2930,Somchai Chotirat,Nakhon Ratchasima,2022-09-04,Gold,60
+2931,Wichai Kaewkla,Udon Thani,2020-06-14,Bronze,52
+2932,Somchai Sinthop,Sakon Nakhon,2022-10-10,Gold,42
+2933,Pichit Boonmee,Udon Thani,2021-08-30,Bronze,64
+2934,Pichit Thongdee,Chiang Mai,2020-09-19,Silver,61
+2935,Chatchai Meesuk,Trang,2021-11-08,Gold,48
+2936,Niran Wongsawat,Krabi,2021-11-26,Silver,36
+2938,Chomphunut Rattanakul,Sakon Nakhon,2020-05-08,Bronze,61
+2939,Anan Intharak,Bangkok,2021-10-28,Silver,42
+2940,Orawan Chantra,Buriram,2020-08-21,Silver,57
+2941,Rungnapa Saelim,Phuket,2022-04-22,Bronze,58
+2942,Chatchai Kaewkla,Bangkok,2020-12-16,Gold,22
+2943,Suchart Boonmee,Nakhon Si Thammarat,2022-06-14,Silver,59
+2944,Pichit Kaewkla,Bangkok,2023-08-15,Gold,51
+2945,Anan Meesuk,Nonthaburi,2023-12-30,Bronze,32
+2946,Duangjai Sukjai,Nonthaburi,2021-08-09,Silver,48
+2947,Boonmee Sinthop,Surat Thani,2022-11-16,Silver,26
+2948,Duangjai Chantra,Nong Khai,2020-02-14,Silver,34
+2949,Chaiyot Naruemon,Ubon Ratchathani,2022-09-01,Bronze,29
+2950,Chatchai Sukjai,Rayong,2022-01-24,Gold,35
+2951,Orawan Prasertsak,Chiang Mai,2022-01-02,Bronze,30
+2952,Malee Srisuk,Krabi,2022-08-17,Gold,23
+2953,Siriporn Chantra,Ubon Ratchathani,2021-01-02,Bronze,34
+2955,Kittisak Yodying,Nakhon Ratchasima,2023-02-05,Bronze,26
+2956,Somchai Naruemon,Nonthaburi,2021-09-19,Silver,64
+2957,Kanya Sinthop,Nakhon Si Thammarat,2023-02-21,Bronze,34
+2958,Siriporn Rattanakul,Nakhon Si Thammarat,2023-03-26,Platinum,50
+2959,Malee Kaewkla,Phuket,2022-06-16,Silver,29
+2960,Pranee Prasertsak,Phuket,2022-09-21,Gold,27
+2961,Orawan Wattana,Nonthaburi,2022-01-07,Bronze,18
+2962,Suree Meesuk,Chiang Mai,2022-05-02,Gold,20
+2963,Pichit Chaiyaporn,Nonthaburi,2022-01-27,Bronze,57
+2964,Chaiyot Chaiyaporn,Chiang Rai,2022-06-15,Platinum,58
+2966,Wilai Thongdee,Surat Thani,2021-07-05,Bronze,42
+2967,Ratana Wongsawat,Pattaya,2021-10-27,Bronze,22
+2968,Chatchai Kaewkla,Sakon Nakhon,2022-03-05,Bronze,38
+2969,Wichai Sinthop,Chiang Rai,2020-07-17,Silver,34
+2970,Suree Chaiyaporn,Sakon Nakhon,2021-01-31,Bronze,34
+2972,Ploy Kaewkla,Nonthaburi,2021-03-11,Silver,46
+2973,Somkiat Thongdee,Trang,2021-07-25,Gold,41
+2974,Thawatchai Meesuk,Sakon Nakhon,2021-12-15,Silver,39
+2975,Thawatchai Phetcharat,Nonthaburi,2022-12-14,Gold,45
+2976,Pichit Saelim,Phuket,2023-02-12,Bronze,29
+2977,Prasert Yodying,Nakhon Ratchasima,2021-08-25,Bronze,28
+2978,Chomphunut Chotirat,Nong Khai,2023-01-25,Gold,51
+2979,Siriporn Srisuk,Udon Thani,2020-07-15,Silver,40
+2980,Pranee Kaewkla,Lampang,2022-09-08,Gold,32
+2981,Kittisak Chaiyaporn,Trang,2022-11-14,Platinum,56
+2982,Kittisak Chotirat,Udon Thani,2020-01-09,Gold,55
+2984,Wilai Chaiyaporn,Surat Thani,2023-09-05,Gold,43
+2985,Kanya Rattanakul,Udon Thani,2021-11-09,Silver,39
+2986,Somsri Panyawong,Nong Khai,2022-07-11,Silver,61
+2987,Suchart Chantra,Ubon Ratchathani,2021-05-10,Bronze,55
+2988,Suree Boonmee,Krabi,2023-01-14,Gold,61
+2989,Ratana Sinthop,Pattaya,2022-08-02,Silver,24
+2990,Suree Wattana,Surat Thani,2021-06-06,Bronze,47
+2991,Boonmee Meesuk,Nakhon Ratchasima,2022-09-15,Silver,57
+2992,Prasert Saelim,Krabi,2020-05-31,Gold,43
+2993,Anan Chantra,Surat Thani,2021-08-24,Bronze,56
+2994,Ratana Naruemon,Chiang Mai,2021-12-28,Gold,20
+2996,Orawan Panyawong,Rayong,2020-07-28,Silver,25
+2997,Pichit Saelim,Nonthaburi,2022-04-30,Gold,25
+2998,Suree Naruemon,Ubon Ratchathani,2022-05-13,Bronze,54
+2999,Anucha Chaiyaporn,Krabi,2023-07-02,Bronze,61
