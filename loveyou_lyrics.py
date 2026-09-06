@@ -1,7 +1,6 @@
 import time
 from threading import Thread, Lock
 import sys
-import os
 
 lock = Lock()
 
@@ -42,4 +41,5 @@ def sing():
 if __name__ == "__main__":
     sing()
 
+#end of file
 
