@@ -1,8 +1,21 @@
 import time
 from threading import Thread, Lock
 import sys
-from animate_text import animate_text
-from sing_lyric_def import sing_lyric
+
+lock = Lock()
+
+def animate_text(text, delay=0.1):
+    with lock:
+        for char in text:
+            sys.stdout.write(char)
+            sys.stdout.flush()
+            time.sleep(delay)
+        print()  # Move to the next line after finishing the text
+
+
+def sing_lyric(lyric, delay, speed):
+    time.sleep(delay)
+    animate_text(lyric, speed)
 
 
 def sing():
