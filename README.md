@@ -58,3 +58,11 @@ mv <file name or floder> <new path/new file name or floder>     #move file or fl
 ### git command line
 - first you have to know how to connect your `Terminal` with `GitHub` so you can connect your local repo with remote repo. First try git clone on your terminal 
  
+1. choose path where you want your local repo to be and use this command 
+```bash
+git clone <re mote repo url>
+```
+2. your terminal will show 
+`Github user name :` and `Github user password :`
+
+3. 
