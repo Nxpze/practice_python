@@ -49,7 +49,7 @@ rm -r <floder name>     #delete floder and all file that it contained
 <span style="color: #e3cf18; font-weight: bold;">Note : 'mv' stand for 'move'</span>
 
 ```zsh
-mv <file name/floder> <new path>    #move file or floder to new path with same name
+mv <file name/floder> <new path>                                #move file or floder to new path with same name
 
 mv <file name or floder> <new path/new file name or floder>     #move file or floder to new path with and rename
 ```
