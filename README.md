@@ -66,3 +66,6 @@ git clone <re mote repo url>
 `Github user name :` and `Github user password :`
 
 3. 
+4. 
+5. 
+6. 
