@@ -65,7 +65,7 @@ git clone <re mote repo url>
 2. your terminal will show 
 `Github user name :` and `Github user password :`
 
-3. 
-4. 
-5. 
-6. 
+
+
+
+
