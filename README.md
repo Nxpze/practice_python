@@ -73,6 +73,7 @@ which you can get from Github go to : `Settings > Developer settings > Personal 
 <span style="color: #f73838; font-weight: bold;">copy it and keep it in the safe place cuz Github will show you only one time </span> and use the token as a password <br> 
 <span style="color: #e3cf18; font-weight: bold;">Note : when you paste the token your terminal won't shoe anything just paste and click enter </span>
 
+
 #### basic Git command line
 - command use to check your repo status 
 ```git
@@ -134,13 +135,14 @@ git switch <branch name>            # switch to branch ou choose
 
 git switch -c <new branch name>     # create new branch and switch to that branch 
 ```
-- command use to check your name user and email user
+- command use to check your username and useremail
 ```git  
-git config user.name            # check uname user that you use to connect with git in this repo
+git config user.name            # check name user that you use to connect with git in this repo
 
 git config user.email           # check email user that you use to connect with git in this repo
 
 git cinfig --global user.name   # check name user that you use to connect with git in this computer
 
-git comfig --global user.email  # check email userthat you use to connect with git in this computer
+git comfig --global user.email  # check email user that you use to connect with git in this computer
 ```
+
