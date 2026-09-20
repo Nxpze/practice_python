@@ -73,6 +73,48 @@ which you can get from Github go to : `Settings > Developer settings > Personal 
 <span style="color: #f73838; font-weight: bold;">copy it and keep it in the safe place cuz Github will show you only one time </span> and use the token as a password <br> 
 <span style="color: #e3cf18; font-weight: bold;">Note : when you paste the token your terminal won't shoe anything just paste and click enter </span>
 
+---
+### git common logic 
+
+```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'sequenceNumberColor': '#8a0707',
+    'actorBg': '#F2EFE7',
+    'actorBorder': '#3368A0',
+    'actorTextColor': '#3368A0',
+    'actorLineColor': '#3368A0',
+    'signalColor': '#C8DFDB',
+    'signalTextColor': '#C8DFDB',
+    'labelBoxBgColor': '#C8DFDB',
+    'labelBoxBorderColor': '#66A3BF',
+    'labelTextColor': '#66A3BF',
+    'loopActivationBorderColor': '#66A3BF',
+    'activationBorderColor': '#C8DFDB',
+    'actorActivationBgColor': '#66A3BF'
+  }
+}}%%
+sequenceDiagram
+    participant WD as Working Diractory
+    participant SA as Staging Area
+    participant LR as Local Repository
+    participant RR as Remote Repository
+    WD->>+SA: git add .
+    activate SA
+    SA->>-LR: git commit -m "massage"
+    activate LR
+    LR->>+RR: git push
+    deactivate LR
+    WD->>+LR: git commit -a 
+    WD->>+LR: git commit -am "massage"
+    RR->>+LR: git fetch
+    LR->>-WD: git merge
+    RR->>+WD: git pull
+    RR->>+WD: git clone (use when start project)
+```
+
+---
 
 #### basic Git command line
 - command use to check your repo status 
@@ -119,6 +161,8 @@ git fetch   # fetch repo from origin/main
 git merge   # merge commit from remote repo that you just fetch
 
 git pull    # a fusion between git fetch and git merge
+
+git clone   # use when you don't have that repo on your computer
 ```
 
 - command that work with branch
