@@ -69,7 +69,8 @@ git clone <remote repo url>
 `Github user name :` and `Github user password :` in the frist line enter 
 your <span style="color: #e3cf18; font-weight: bold;">Github Uername</span> 
 and the second one you have enter your <span style="color: #e3cf18; font-weight: bold;">Tokens</span> <br> 
-which you can get from Github go to : `Settings > Developer settings > Personal access Tokens > Tokens(classic) > generate new token ` after generate new token 
+> which you can get from Github go to : `Settings > Developer settings > Personal access Tokens > Tokens(classic) > generate new token ` after generate new token
+
 <span style="color: #f73838; font-weight: bold;">copy it and keep it in the safe place cuz Github will show you only one time </span> and use the token as a password <br> 
 <span style="color: #e3cf18; font-weight: bold;">Note : when you paste the token your terminal won't shoe anything just paste and click enter </span>
 
@@ -189,4 +190,3 @@ git cinfig --global user.name   # check name user that you use to connect with g
 
 git comfig --global user.email  # check email user that you use to connect with git in this computer
 ```
-
