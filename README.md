@@ -140,6 +140,13 @@ git add <file name> <file name>     # add every file that you list
 git add .                           # add every file that been create or modifile 
 ```
 
+- and if you don't want git to track file you any more ues this command
+```git
+git rm --cached <file name>       #remove file from git tracking
+
+git rm -r --cached <floder name>  #remove floder and all file in it from git tracking
+```
+
 - commad use to save history of all file that you have add in stage area
 ```git
 git commit -m " commit massage "                # commit all file in stage area
