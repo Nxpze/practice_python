@@ -196,8 +196,11 @@ git config user.name            # check name user that you use to connect with g
 
 git config user.email           # check email user that you use to connect with git in this repo
 
-git cinfig --global user.name   # check name user that you use to connect with git in this computer
+git config --global user.name   # check name user that you use to connect with git in this computer
 
-git comfig --global user.email  # check email user that you use to connect with git in this computer
+git config --global user.email  # check email user that you use to connect with git in this computer
 ```
 
+---
+
+- command use to 
